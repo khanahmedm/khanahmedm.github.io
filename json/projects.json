@@ -44,7 +44,7 @@
     "description": "Designed and implemented an end-to-end Service Level Management and Reporting solution using TDM and XS.\nDefined the overall solution architecture and identified the technical requirements for the overall solution.\nHelped the customer to understand solution components, the issues related to the environments and the products and provided viable workarounds.\nAssisted the project management to formulize a complete project plan for successful delivery of the project.\nSupervised the work of TDM and XS developers; responsible for assigning project tasks."
   },
   {
-    "project": "Decision Center",
+    "project": "Decision Center and SLA Reporting",
     "client": "Eli Lilly",
     "role": "Delivery Consultant Team Lead",
     "year": "2009-2013",
@@ -55,7 +55,7 @@
     "description": "Implemented HP DecisionCenter solution for IT Service Management and Asset Management reporting.\nProvided a framework to capture, summarize and display KPIs and metrics per IT contractual agreements based on SLAs.\nLed a team of onsite and off-shore developers; provided mentoring and directions to the development team; assisted PMO.\nThe solution resulted in providing insights into the Service Management processes and attaining Continual Service Improvements goals.\nAssisted ServiceNow team to map data elements for reporting requirements from ServiceNow solution.\nConducted a successful demo of HP Executive Scorecard and assisted the HP Sales team to win the opportunity.<br><br><b>Post go-live L4 Support:</b>\nSupervised the work of junior report developers; responsible for assigning tasks for new requirements, and mentoring junior developers\nProvided expert advice and resolutions on various post go-live issues\nCreated 40 custom reports in DC; customized and created new universes and ETL scenarios for custom reports.\nDeveloped Oracle functions, procedures, and materialized views to calculate new Service Management SLAs\nInitiated a Data Warehousing Solution to capture data from different data sources (Survey, Telephony, Emails, Remedy, external data files)\nUpgraded BO XI R2 reports and universes to BO 4.\nProvided technical assistance to SW Sales team for Executive Scorecard POC."
   },
   {
-    "project": "Decision Center",
+    "project": "Decision Center Implementation",
     "client": "Boeing",
     "role": "Delivery Consultant Team Lead",
     "year": "2009",
@@ -88,7 +88,7 @@
     "description": "Installation and configuration of DC 2.0 for PoC. \nInstallation and configuration of DC 2.0 on Dev and Prod environments.\nDevelopment and modification of ETL processes in Connect-It.\nDevelopment of BO universe objects for custom reports.\nDevelopment of custom Webi reports related to Incident, Interaction, and Incident-Interaction relationships.\nConfiguration of Windows Active Directory authentication on BO and DC."
   },
   {
-    "project": "BIDE",
+    "project": "BIDE Data Warehouse Implementation",
     "client": "Wells Fargo",
     "role": "ETL Developer",
     "year": "2007-2008",
