@@ -1,0 +1,131 @@
+[
+  {
+    "company": "Amazon Web Services",
+    "role": "Senior Technical Account Manager",
+    "duration": "September 2022 - present",
+    "location": "St. Louis, MO",
+    "image": "aws.png",
+    "url": "aws.amazon.com"
+  },
+  {
+    "company": "Wells Fargo",
+    "role": "Lead Infrastructure Engineer",
+    "duration": "November 2019 - September 2022",
+    "location": "St. Louis, MO",
+    "image": "wellsfargo.png",
+    "url": "www.wellsfargo.com"
+  },
+  {
+    "company": "Wells Fargo",
+    "role": "Senior Database Analyst",
+    "duration": "May 2016 - November 2019",
+    "location": "St. Louis, MO",
+    "image": "wellsfargo.png",
+    "url": "www.wellsfargo.com"
+  },
+  {
+    "company": "Flexera Software",
+    "role": "Senior Consultant",
+    "duration": "June 2015 - March 2016",
+    "location": "St. Louis, MO",
+    "image": "flexera.png",
+    "url": "www.flexera.com"
+  },
+  {
+    "company": "Daugherty Business Solutions",
+    "role": "Consultant",
+    "duration": "September 2014 - June 2015",
+    "location": "St. Louis, MO",
+    "image": "dbs.jpg",
+    "url": "www.daugherty.com"
+  },
+  {
+    "company": "Hewlett Packard",
+    "role": "Technology Consultant",
+    "duration": "April 2007 - September 2014",
+    "location": "St. Louis, MO",
+    "image": "hp.png",
+    "url": "www.hp.com"
+  },
+  {
+    "company": "Ingenix - United Health Group",
+    "role": "Senior Application Developer",
+    "duration": "April 2006 - April 2007",
+    "location": "St. Louis, MO",
+    "image": "uhg.png",
+    "url": "www.unitedhealthgroup.com"
+  },
+  {
+    "company": "Oracle Corporation",
+    "role": "Consultant",
+    "duration": "November 2004 - April 2006",
+    "location": "St. Louis, MO",
+    "image": "oracle.png",
+    "url": "www.oracle.com"
+  },
+  {
+    "company": "Alta Resources",
+    "role": "Application Developer",
+    "duration": "March 2004 - November 2004",
+    "location": "Kalamazoo, MI",
+    "image": "altaresources.jpg",
+    "url": "www.altaresources.com"
+  },
+  {
+    "company": "Amway Corporation",
+    "role": "Software Developer - graduate intern",
+    "duration": "May 2003 - March 2004",
+    "location": "Ada, MI",
+    "image": "amway.png",
+    "url": "www.amway.com"
+  },
+  {
+    "company": "Jemco Logics",
+    "role": "Web Application Developer - intern",
+    "duration": "February 2003 - April 2003",
+    "location": "Allendale, MI",
+    "image": "jemcologics.jpg",
+    "url": "www.jemcologics.com"
+  },
+  {
+    "company": "National Association of Purchasing Management - Greater Grand Rapids",
+    "role": "Web Developer",
+    "duration": "October 2002 - December 2002",
+    "location": "Allendale, MI",
+    "image": "napm.gif",
+    "url": "www.ismworld.com"
+  },
+  {
+    "company": "Grand Valley State University",
+    "role": "IT Helpdesk Support - part time",
+    "duration": "January 2001 - April 2003",
+    "location": "Allendale, MI",
+    "image": "gvsu.png",
+    "url": "www.gvsu.edu"
+  },
+  {
+    "company": "Herman Miller",
+    "role": "IT Support - intern",
+    "duration": "June 2001 - September 2001",
+    "location": "Zeeland, MI",
+    "image": "hermanmiller.png",
+    "url": "www.hermanmiller.com"
+  },
+  {
+    "company": "Standard Chartered Bank",
+    "role": "IT Consultant",
+    "duration": "February 1999 - June 2000",
+    "location": "Karachi, Pakistan",
+    "image": "standardchartered.png",
+    "url": "www.standardchartered.com"
+  },
+  {
+    "company": "Standard Chartered Bank",
+    "role": "IT intern",
+    "duration": "June 1998 - August 1998",
+    "location": "Karachi, Pakistan",
+    "image": "standardchartered.png",
+    "url": "www.standardchartered.com"
+  }
+
+]

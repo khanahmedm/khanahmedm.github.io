@@ -1,0 +1,83 @@
+[
+  {
+    "school": "Wells Fargo provided training",
+    "courses": "Teradata Advanced SQL",
+    "duration": "May 2019",
+    "location": "Virtual",
+    "image": "teradata.png",
+    "url": "www.teradata.com"
+  },
+  {
+    "school": "Wells Fargo provided training",
+    "courses": "Ab Initio - Graphical Development Environment (GDE)",
+    "duration": "September 2017",
+    "location": "Phoenix, AZ",
+    "image": "abinitio.png",
+    "url": "www.abinitio.com"
+  },
+  {
+    "school": "HP provided training",
+    "courses": "TOGAF 9.1",
+    "duration": "February 2014",
+    "location": "Virtual",
+    "image": "togaf.png",
+    "url": "www.opengroup.org"
+  },
+  {
+    "school": "HP provided training",
+    "courses": "HP Executive Scorecard",
+    "duration": "January 2012",
+    "location": "Chicago, IL",
+    "image": "hp.png",
+    "url": "www.hp.com"
+  },
+  {
+    "school": "HP provided training",
+    "courses": "HP Software Portfolio",
+    "duration": "July 2008",
+    "location": "Menlo Park, CA",
+    "image": "hp.png",
+    "url": "www.hp.com"
+  },
+  {
+    "school": "HP provided training",
+    "courses": "HP Service Manager Implementation Essentials",
+    "duration": "June 2008",
+    "location": "Atlanta, GA",
+    "image": "hp.png",
+    "url": "www.hp.com"
+  },
+  {
+    "school": "PeopleSoft provided training",
+    "courses": "PeopleSoft EPM and PeopleSoft Tools",
+    "duration": "November 2004",
+    "location": "Pleasanton, CA",
+    "image": "peoplesoft.png",
+    "url": "www.peoplesoft.com"
+  },
+  {
+    "school": "Grand Rapids Community College",
+    "courses": "Unix shell scripting",
+    "duration": "September 2002 - December 2002",
+    "location": "Grand Rapids, MI",
+    "image": "grcc.png",
+    "url": "www.grcc.edu"
+  },
+  {
+    "school": "Alexandria Technical College",
+    "courses": "IBM AS/400 RPG programming",
+    "duration": "September 2001 - April 2002",
+    "location": "Virtual",
+    "image": "atc.png",
+    "url": "www.alextech.edu"
+  },
+  {
+    "school": "Petroman Training Institute",
+    "courses": "GW Basic, dBase, FoxPro, C, COBOL, Accounting",
+    "duration": "January 1996 - July 1996",
+    "location": "Karachi, Pakistan",
+    "image": "petroman.jpg",
+    "url": ""
+  }
+
+]

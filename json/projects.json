@@ -1,0 +1,145 @@
+[
+  {
+    "project": "Tech Refresh to migrate 500 TB of hadoop data",
+    "client": "Wells Fargo",
+    "role": "Production Support Lead",
+    "year": "2020",
+    "image": "wellsfargo.png",
+    "url": "www.wellsfargo.com",
+    "diagram": "WF_Tech_Refresh_Hadoop.drawio.html",
+    "skills": "Red Hat Linux, Teradata, Ab Initio, Oracle, SQL, Hadoop, Hive, Python, Shell scripting, Terraform, Kafka, Spark Streaming, Autosys",
+    "description": "Led a team of production support staff to provide 24/7 coverage for 500TB data migration effort during Hortonworks Tech Refresh project.\nThe data was migrated from the data center in Alabama to another in Minnesota over bank's dedicated network using parallel distributed copy command.<br><br><b>Post Migration Support:</b>\nImproved internal processes by monitoring performance of SLAs/OLAs, creating preventative action items using incident management metrics, and replacing manual redundant tasks through automation that resulted in overall reduction of issues by 50% YOY.\nPartnered with various application teams to onboard applications, maintain the health of data engineering pipelines, and assist with RCA.\nEnabled new hires on various data processing applications, real-time and batch processing through knowledge transfer and shadowing."
+  },
+  {
+    "project": "Home Equity Core Integration",
+    "client": "Wells Fargo - Credit Risk Management",
+    "role": "ETL Team Lead",
+    "year": "2018-2019",
+    "image": "wellsfargo.png",
+    "url": "www.wellsfargo.com",
+    "diagram": "WF_HE_Core.drawio.html",
+    "skills": "SQL Server 2014, Teradata 15, SQL, T-SQL, Ab Initio, Linux, TFS, Jira, UDeploy, Jenkins, Autosys, Business Analysis",
+    "description": "Led a team of onshore and offshore ETL and SQL developers to design and implement the data warehouse solution (star-schema).\nThe project resulted in significant savings by reducing the number of data hops to reach system of record and aligning the overall solution with enterprise data strategy objectives.\nEnabled developers new to Ab Initio ETL platform through knowledge transfer and hands-on jira assignments."
+  },
+  {
+    "project": "ITSM Data Integration",
+    "client": "CDC - Centers for Disease Control and Prevention",
+    "role": "Data Architect & Integration Lead",
+    "year": "2013-2014",
+    "image": "cdc.jpg",
+    "url": "www.cdc.gov",
+    "diagram": "CDC_Data_Integration.drawio.html",
+    "skills": "HP Service Manager, HP Service Center, HP Connect-It, SQL Server 2012, SSIS, SQL, T-SQL, Business Analysis",
+    "description": "Led design and implementation of data migration architecture to merge IT Service Management data from two HP Service Center (SC) instances into one HP Service Manager (SM) instance\nSuccessfully consolidated 7 years of Service Desk, Incident, Change Management and Foundation data from two Service Center instances.\nPlayed a significant role in deploying and configuring HP Service Manager with Trusted Sign-On and vertical scaling load balancer process.\nThe solution helped reducing cost for administering and maintaining two instances by merging into one system."
+  },
+  {
+    "project": "Executive Scorecard & SLA Reporting",
+    "client": "Bank of America",
+    "role": "Delivery Consultant Team Lead",
+    "year": "2013",
+    "image": "bofa.png",
+    "url": "www.bankofamerica.com",
+    "diagram": "BoA_HP_ExecutiveScorecard.drawio.html",
+    "skills": "Executive Scorecard (XS) 9.31, BusinessObjects XI 3.1, Test Data Management (TDM) 1.1, Windows 2008 Server, SQL Server 2008",
+    "description": "Designed and implemented an end-to-end Service Level Management and Reporting solution using TDM and XS.\nDefined the overall solution architecture and identified the technical requirements for the overall solution.\nHelped the customer to understand solution components, the issues related to the environments and the products and provided viable workarounds.\nAssisted the project management to formulize a complete project plan for successful delivery of the project.\nSupervised the work of TDM and XS developers; responsible for assigning project tasks."
+  },
+  {
+    "project": "Decision Center",
+    "client": "Eli Lilly",
+    "role": "Delivery Consultant Team Lead",
+    "year": "2009-2013",
+    "image": "eli-lilly.png",
+    "url": "www.lilly.com",
+    "diagram": "Lilly_HP_DecisionCenter.drawio.html",
+    "skills": "HP Service Manager, HP DecisionCenter, HP Connect-It, Executive Scorecard 9.01, BOE XI R2, BOE 3, BOE 4, Xcelsius, Oracle 11g, SQL, PL/SQL, Oracle Materialized Views",
+    "description": "Implemented HP DecisionCenter solution for IT Service Management and Asset Management reporting.\nProvided a framework to capture, summarize and display KPIs and metrics per IT contractual agreements based on SLAs.\nLed a team of onsite and off-shore developers; provided mentoring and directions to the development team; assisted PMO.\nThe solution resulted in providing insights into the Service Management processes and attaining Continual Service Improvements goals.\nAssisted ServiceNow team to map data elements for reporting requirements from ServiceNow solution.\nConducted a successful demo of HP Executive Scorecard and assisted the HP Sales team to win the opportunity.<br><br><b>Post go-live L4 Support:</b>\nSupervised the work of junior report developers; responsible for assigning tasks for new requirements, and mentoring junior developers\nProvided expert advice and resolutions on various post go-live issues\nCreated 40 custom reports in DC; customized and created new universes and ETL scenarios for custom reports.\nDeveloped Oracle functions, procedures, and materialized views to calculate new Service Management SLAs\nInitiated a Data Warehousing Solution to capture data from different data sources (Survey, Telephony, Emails, Remedy, external data files)\nUpgraded BO XI R2 reports and universes to BO 4.\nProvided technical assistance to SW Sales team for Executive Scorecard POC."
+  },
+  {
+    "project": "Decision Center",
+    "client": "Boeing",
+    "role": "Delivery Consultant Team Lead",
+    "year": "2009",
+    "image": "boeing.png",
+    "url": "www.boeing.com",
+    "diagram": "Boeing_HP_DecisionCenter.drawio.html",
+    "skills": "DecisionCenter 2.0, BusinessObjects Enterprise XI R2 SP1, Connect-It 3.81, Tomcat 5.0, Oracle 10g, Windows 2003 Server, HP-UX, SQL",
+    "description": "Deployment of ITPA for SM and AM Data Warehouses and ETL scenarios in the development environment.\nDeployment of BO on Windows and DC application server on HP-UX.\nDeployment of Optimization on HP-UX.\nAssisted the customer building the install doc for all DC components.\nConducted online user training (three-day sessions) on Connect-It, BusinessObjects, and DC."
+  },
+  {
+    "project": "Decision Center Implementation",
+    "client": "US Bank",
+    "role": "Delivery Consultant Team Lead",
+    "year": "2009",
+    "image": "usbank.png",
+    "url": "www.usbank.com",
+    "diagram": "USBank_HP_DecisionCenter.drawio.html",
+    "skills": "DecisionCenter 2.0, BusinessObjects Enterprise XI R2 SP1, Connect-It 3.81, Tomcat 5.0, Oracle 10g, Windows 2003 Server, SQL",
+    "description": "Deployment of ITPA for SM Data Warehouse and ETL scenarios in the DEV, IT, UAT, PROD, and DR environments.\nModified ETL scenarios to fix data quality issues.\nTested out-of-the-box webi reports and analytics; created new reports.\nKnowledge transfer to USB resource on BO and CIT ETL processes."
+  },
+  {
+    "project": "Decision Center Implementation",
+    "client": "Barclays",
+    "role": "Delivery Consultant Team Lead",
+    "year": "2008",
+    "image": "barclays.png",
+    "url": "www.barclays.com",
+    "diagram": "Barclays_HP_DecisionCenter.drawio.html",
+    "skills": "DecisionCenter 2.0, BusinessObjects Enterprise XI, Connect-It 3.81, Tomcat 5, Oracle 10g, Windows 2003 Server, SQL",
+    "description": "Installation and configuration of DC 2.0 for PoC. \nInstallation and configuration of DC 2.0 on Dev and Prod environments.\nDevelopment and modification of ETL processes in Connect-It.\nDevelopment of BO universe objects for custom reports.\nDevelopment of custom Webi reports related to Incident, Interaction, and Incident-Interaction relationships.\nConfiguration of Windows Active Directory authentication on BO and DC."
+  },
+  {
+    "project": "BIDE",
+    "client": "Wells Fargo",
+    "role": "ETL Developer",
+    "year": "2007-2008",
+    "image": "wellsfargo.png",
+    "url": "www.wellsfargo.com",
+    "diagram": "WF_HP_BIDE.drawio.html",
+    "skills": "DataStage Enterprise Edition, DB2 UDB V9, Unix Shell scripting, C Language, DataStage BASIC language",
+    "description": "Development of BIDE Application and Reference Subject Areas ETL code in DataStage Enterprise environment using technical design documents.\nCreation of Unit Test documents for each job. Deployment and testing of the ETL code in DEV, UAT, and SIT environments.\nProof of Concept prototype design and coding for Data Quality, and Data Integrity processes and Self-Healing for dimension tables.\nDevelopment of PX routines in C language. Creation of DB2 tables, SQL queries and shell scripts for running DataStage jobs.\nCollaborating with HP and Wells Fargo technical team members to conduct testing in all phases of development and migration. \nHelping and mentoring junior developers in understanding technical concepts."
+  },
+  {
+    "project": "Customer Scorecard Dashboard",
+    "client": "United Healthcare",
+    "role": "ETL Lead",
+    "year": "2006-2007",
+    "image": "uhc.png",
+    "url": "www.uhc.com",
+    "diagram": "UHG_Customer_Dashboard.drawio.html",
+    "skills": "IBM DataStage, Oracle 10g, SQL, PL/SQL, Unix shell scripting, Autosys, Business Analysis",
+    "description": "Managed off-shore resources to implement highly complex ETL design in IBM DataStage PX for Scorecard Reporting; assigned tasks to developers depending on expertise; kept track of their progress.\nWorked with project managers, end-business users, business analysts, testers, DBA’s, data modelers to identify problems and provide resolutions.\nCoordinated with business for UAT; performed Unit, System, Integration and Regression Testing in QA; used best practices to minimize the elapsed time of monthly cycles.\nSuccessfully deployed the ETL solution in production environment; the solution provided Key Account Management team to improve consultative services to over 4000 customers."
+  },
+  {
+    "project": "Pacificare NICE datamart",
+    "client": "United Healthcare",
+    "role": "ETL Developer",
+    "year": "2006-2007",
+    "image": "uhc.png",
+    "url": "www.uhc.com",
+    "diagram": "UHG_NICE_DataMart.drawio.html",
+    "skills": "IBM DataStage, Oracle 9, SQL, PL/SQL, Unix shell scripting, Autosys",
+    "description": "Led ETL development efforts to integrate PacifiCare NICE datamart into ARO (Audit & Recovery Operations).\nWorked with Development team, DBA’s, customer and PacifiCare developers to perform Unit, System Integration, QA Testing; Interfaced with business for UAT.\nCollaborated with Business Analysts, Project Managers to rectify problems in Business Functional and Technical Specs.\nResearched and identified Data Quality and Integrity Issues; provided resolutions to rectify the data related problems.\nSuccessful Deployment in production; helped in recovering dollar amounts and savings from outsource contract in maintenance."
+  },
+  {
+    "project": "Supply Chain Datamart",
+    "client": "Alberto Culver",
+    "role": "ETL Developer",
+    "year": "2005",
+    "image": "albertoculver.png",
+    "url": "www.alberto.com",
+    "diagram": "Supply_Chain_DataMart.drawio.html",
+    "skills": "Ascential DataStage, MicroStrategy, PeopleSoft Supply Chain, SQL Server 2000, SQL, Business Analysis",
+    "description": "Architected a customized Supply Chain Management Datamart based on Demand Management (DM), Production & Distribution Planning (PDP), and internal legacy systems provided data. Created a Reporting Solution using MicroStrategy.\nProvided training to business users on the structure of the customized Data Warehouse, and technical team on MicroStrategy Desktop and Administration and Ascential DataStage Designer, Director, Manager, and Administrator."
+  },
+  {
+    "project": "JD Edwards Business Intelligence Solution",
+    "client": "Access Business Group",
+    "role": "BI & ETL Developer",
+    "year": "2003-2004",
+    "image": "accessbusinessgroup.png",
+    "url": "www.amway.com",
+    "diagram": "JDE_BI.drawio.html",
+    "skills": "JD Edwards BI Suite, Informatica PowerMart, MicroStrategy, SQL Server 2000, Oracle 8, SQL, T-SQL, ASP",
+    "description": "Played a significant role in deploying JD Edwards Business Intelligence solution that comprised of Informatica and MicroStrategy tools.\nAhmed worked with PeopleSoft consultants and successfully implemented PeopleSoft/JD Edwards Business Intelligence Solutions version 4.0 in the development and production environment.  He also documented the whole BI implementation process (Informatica, MicroStrategy, and WebSphere) that comprises of comprehensive installation, configuration and troubleshooting steps. The robust BI environment and documentations enabled operations team to perform future upgrades without any issues.\nAhmed also designed and developed PeopleSoft Business Intelligence Information site to show JD Edwards source and DW target metadata."
+  }
+]

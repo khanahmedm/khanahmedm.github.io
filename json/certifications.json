@@ -1,0 +1,66 @@
+[
+  {
+    "certification": "AWS Certified Database Specialty",
+    "issuedBy": "AWS",
+    "issuedDate": "April 2024",
+    "expirationDate": "April 2027",
+    "location": "St. Louis, MO",
+    "image": "aws_certified_database.png",
+    "url": "aws.amazon.com"
+  },
+  {
+    "certification": "AWS Certified Data Analytics Specialty",
+    "issuedBy": "AWS",
+    "issuedDate": "February 2024",
+    "expirationDate": "February 2027",
+    "location": "St. Louis, MO",
+    "image": "aws_certified_data_analytics.png",
+    "url": "aws.amazon.com"
+  },
+  {
+    "certification": "AWS Certified Machine Learning Specialty",
+    "issuedBy": "AWS",
+    "issuedDate": "November 2020",
+    "expirationDate": "November 2023",
+    "location": "St. Louis, MO",
+    "image": "aws_certified_machine_learning.png",
+    "url": "aws.amazon.com"
+  },
+  {
+    "certification": "AWS Certified Big Data Specialty",
+    "issuedBy": "AWS",
+    "issuedDate": "August 2019",
+    "expirationDate": "August 2022",
+    "location": "St. Louis, MO",
+    "image": "aws_certified_big_data.png",
+    "url": "aws.amazon.com"
+  },
+  {
+    "certification": "AWS Certified Solution Architect Associate",
+    "issuedBy": "AWS",
+    "issuedDate": "February 2019",
+    "expirationDate": "February 2021",
+    "location": "St. Louis, MO",
+    "image": "aws_certified_solution_architect_associate.png",
+    "url": "aws.amazon.com"
+  },
+  {
+    "certification": "IBM Machine Learning Professional Certificate",
+    "issuedBy": "IBM",
+    "issuedDate": "February 2021",
+    "expirationDate": "-",
+    "location": "St. Louis, MO",
+    "image": "IBM_Machine_Learning.png",
+    "url": "aws.amazon.com"
+  },
+  {
+    "certification": "Microsoft Certified Professional",
+    "issuedBy": "Microsoft",
+    "issuedDate": "January 2000",
+    "expirationDate": "January 2001",
+    "location": "Karachi, Pakistan",
+    "image": "mcp.png",
+    "url": "www.microsoft.com"
+  }
+
+]

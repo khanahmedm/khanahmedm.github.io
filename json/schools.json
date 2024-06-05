@@ -1,0 +1,30 @@
+[
+  {
+    "school": "University of Texas at Austin",
+    "degree": "Master of Science in Data Science",
+    "courses": "click here",
+    "duration": "September 2021 - present",
+    "location": "Virtual",
+    "image": "UTAustin.png",
+    "url": "www.utexas.edu"
+  },
+  {
+    "school": "Grand Valley State University",
+    "degree": "Master of Science in Computer Information System",
+    "courses": "click here",
+    "duration": "September 2000 - April 2003",
+    "location": "Allendale, MI",
+    "image": "gvsu.png",
+    "url": "www.gvsu.edu"
+  },
+  {
+    "school": "NED University of Engineering & Technology",
+    "degree": "Bachelor of Science in Computer Engineering",
+    "courses": "click here",
+    "duration": "January 1995 - May 1999",
+    "location": "Karachi, Pakistan",
+    "image": "ned.png",
+    "url": "www.neduet.edu.pk"
+  }
+
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Employers",
+    "href": "#employers"
+  },
+  {
+    "name": "Projects",
+    "href": "#projects"
+  },
+  {
+    "name": "Schools",
+    "href": "#schools"
+  },
+  {
+    "name": "Certifications",
+    "href": "#certifications"
+  },
+  {
+    "name": "Trainings",
+    "href": "#trainings"
+  },
+  {
+    "name": "Repositories",
+    "href": "#repositories"
+  },
+  {
+    "name": "Contact",
+    "href": "#contact"
+  }
+]
