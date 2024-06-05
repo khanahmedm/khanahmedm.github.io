@@ -54,6 +54,24 @@
     "url": "aws.amazon.com"
   },
   {
+    "certification": "HP Integration Specialist - Service Manager",
+    "issuedBy": "HP",
+    "issuedDate": "September 2012",
+    "expirationDate": "-",
+    "location": "St. Louis, MO",
+    "image": "HP-Accredited-Integration-Specialist.jpg",
+    "url": "www.hp.com"
+  },
+  {
+    "certification": "ITIL v3 Foundations",
+    "issuedBy": "EXIN",
+    "issuedDate": "June 2008",
+    "expirationDate": "-",
+    "location": "St. Louis, MO",
+    "image": "itil_foundation.jpg",
+    "url": "www.hp.com"
+  },
+  {
     "certification": "Microsoft Certified Professional",
     "issuedBy": "Microsoft",
     "issuedDate": "January 2000",
