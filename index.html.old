@@ -1,0 +1,471 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet"> <!-- Added Google Font link -->
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif; /* Updated font-family */
+            margin: 0;
+            padding: 0;
+            background-color: white;
+        }
+        header {
+            background-color: white;
+            color: #000;
+            padding: 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            position: fixed; /* Makes the header fixed */
+            top: 0;
+            width: 100%;
+            z-index: 1000; /* Ensures the header is above other content */
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow for better visibility */
+        }
+        nav {
+            background-color: white; /* Changed background color to white */
+            padding: 10px 10px 10px 0; /* Adjusted padding to shift nav links to the left */
+            text-align: center;
+        }
+        nav a {
+            text-decoration: none;
+            color: #333;
+            padding: 10px 20px;
+            font-weight: 500; /* Added font-weight for better appearance */
+        }
+        nav a:hover {
+            #background-color: #ddd;
+            font-weight: bold;
+            text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+        }
+        h1, h2 {
+            margin: 0;
+            font-weight: 700; /* Updated font-weight */
+        }
+        /* Style for sections to give them some height */
+        section {
+            padding: 100px 20px;
+            margin-top: 50px; /* Margin to separate sections visually */
+            position: relative;
+        }
+        .container {
+            max-width: 800px;
+            margin: 80px auto 20px; /* Adjusted margin-top to account for fixed header */
+            padding: 0 20px;
+        }
+        .work-history, .projects, .certifications, .schools, .trainings, .contact {
+            margin-bottom: 40px;
+        }
+        .work-history h2, .projects h2, .certifications h2, .schools h2, .trainings h2, .contact h2 {
+            border-bottom: 2px solid #333;
+            padding-bottom: 10px;
+        }
+        .work-item, .project-item, .certification-item, .school-item, .training-item {
+            margin-bottom: 20px;
+        }
+        .work-item h3, .project-item h3, .certification-item h3, .school-item h3, .training-item h3 {
+            margin-bottom: 5px;
+            font-weight: 500; /* Updated font-weight */
+        }
+        .work-item p, .project-item p, .certification-item p, .school-item p, .training-item p {
+            margin: 0;
+        }
+
+        table {
+        border-collapse: collapse;
+        width: 100%;
+        }
+
+        th, td {
+            padding: 8px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+        .col-img {
+        width: 50px; /* Adjust this value as needed */
+        text-align: center;
+        }
+
+        .col-text {
+        width: 300px; /* Adjust this value as needed */
+        }
+
+        .fixed-size {
+        width: 100px; /* Fixed width */
+        height: 100px; /* Fixed height */
+        object-fit: cover; /* Ensures the image covers the area */
+        }
+        .fixed-size50 {
+        width: 50px; /* Fixed width */
+        height: 50px; /* Fixed height */
+        object-fit: cover; /* Ensures the image covers the area */
+        }
+
+        .fixed-size33-100 {
+        width: 100px; /* Fixed width */
+        height: 33px; /* Fixed height */
+        object-fit: cover; /* Ensures the image covers the area */
+        }
+
+        .fixed-size-w100 {
+        width: 100px; /* Fixed width */
+        /*height: 50px; /* Fixed height */
+        object-fit: cover; /* Ensures the image covers the area */
+        }
+
+        /* Style for images in table cells */
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1 style="margin-right: auto;">Ahmed M Khan</h1>
+        <nav>
+            <a href="#employers">Employers</a>
+            <a href="#projects">Projects</a>
+            <a href="#schools">Schools</a>
+            <a href="#certifications">Certifications</a>
+            <a href="#trainings">Trainings</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+    <div class="container">
+        <section id="employers" class="work-history">
+            <br>
+            <h2>Employers</h2>
+            <div class="work-item">
+                <table>
+                    <tr>
+                        <td class="col-img">
+                            <a href="http://aws.amazon.com">
+                                <img src="./images/aws.png" alt="aws"></td>
+                            </a>
+                        <td class="col-text">
+                            <h3>Amazon Web Services</h3>
+                            <p>Role: Senior Technical Account Manager</p>
+                            <p>Duration: September 2022 - present</p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <div class="work-item">
+                <table>
+                    <tr>
+                        <td class="col-img"><img src="./images/wellsfargo.png" alt="wells fargo"></td>
+                        <td class="col-text">
+                            <h3>Wells Fargo</h3>
+                            <p>Role: Lead Infrastructure Engineer</p>
+                            <p>Duration: November 2019 - September 2022</p>
+                        </td>
+                    </tr>
+                </table>
+                
+            </div>
+            <div class="work-item">
+                <table>
+                    <tr>
+                        <td class="col-img"><img src="./images/wellsfargo.png" alt="wells fargo"></td>
+                        <td class="col-text">
+                            <h3>Wells Fargo</h3>
+                            <p>Role: Senior Database Analyst</p>
+                            <p>Duration: May 2016 - November 2019</p>
+                        </td>
+                    </tr>
+                </table>
+                
+            </div>
+            <div class="work-item">
+                <table>
+                    <tr>
+                        <td class="col-img"><img src="./images/flexera.png" alt="flexera"></td>
+                        <td class="col-text">
+                            <h3>Flexera Software</h3>
+                            <p>Role: Senior Consultant</p>
+                            <p>Duration: June 2015 - March 2016</p>
+                        </td>
+                    </tr>
+                </table>
+
+            </div>
+            <div class="work-item">
+                <table>
+                    <tr>
+                        <td class="col-img"><img src="./images/dbs.jpg" alt="daugherty" class="fixed-size50"></td>
+                        <td class="col-text">
+                            <h3>Daugherty Business Solutions</h3>
+                            <p>Role: Consultant </p>
+                            <p>Duration: September 2014 - June 2015</p>
+                        </td>
+                    </tr>
+                </table>
+
+            </div>
+            <div class="work-item">
+                <table>
+                    <tr>
+                        <td class="col-img"><img src="./images/hp.png" alt="hp" class="fixed-size50"></td>
+                        <td class="col-text">
+                            <h3>Hewlett Packard</h3>
+                            <p>Role: Technology Consultant</p>
+                            <p>Duration: April 2007 - September 2014</p>
+                        </td>
+                    </tr>
+                </table>
+
+            </div>
+            <div class="work-item">
+                <table>
+                    <tr>
+                        <td class="col-img"><img src="./images/uhg.png" alt="uhg"  class="fixed-size"></td>
+                        <td class="col-text">
+                            <h3>Ingenix - United Health Group</h3>
+                            <p>Role: Senior Application Developer</p>
+                            <p>Duration: April 2006 - April 2007</p>
+                        </td>
+                    </tr>
+                </table>
+
+            </div>
+            <div class="work-item">
+                <table>
+                    <tr>
+                        <td class="col-img"><img src="./images/oracle.png" alt="oracle" class="fixed-size33-100"></td>
+                        <td class="col-text">
+                            <h3>Oracle Corporation</h3>
+                            <p>Role: Consultant</p>
+                            <p>Duration: November 2004 - April 2006</p>
+                        </td>
+                    </tr>
+                </table>
+
+            </div>
+            <div class="work-item">
+                <table>
+                    <tr>
+                        <td class="col-img"><img src="./images/altaresources.jpg" alt="alta resources"  class="fixed-size50"></td>
+                        <td class="col-text">
+                            <h3>Alta Resources</h3>
+                            <p>Role: Application Develper</p>
+                            <p>Duration: March 2004 - October 2004</p>
+                        </td>
+                    </tr>
+                </table>
+
+            </div>
+            <div class="work-item">
+                <table>
+                    <tr>
+                        <td class="col-img"><img src="./images/amway.png" alt="amway" class="fixed-size33-100"></td>
+                        <td class="col-text">
+                            <h3>Amway Corporation</h3>
+                            <p>Role: Software Developer - graduate intern</p>
+                            <p>Duration: May 2003 - March 2004</p>
+                        </td>
+                    </tr>
+                </table>
+
+            </div>
+            <div class="work-item">
+                <table>
+                    <tr>
+                        <td class="col-img"><img src="./images/jemcologics.jpg" alt="jemco logics" class="fixed-size"></td>
+                        <td class="col-text">
+                            <h3>Jemco Logics</h3>
+                            <p>Role: Web Application Developer - intern</p>
+                            <p>Duration: February 2003 - April 2003</p>
+                        </td>
+                    </tr>
+                </table>
+
+            </div>
+            <div class="work-item">
+                <table>
+                    <tr>
+                        <td class="col-img"><img src="./images/napm.gif" alt="napm" ></td>
+                        <td class="col-text">
+                            <h3>National Association of Purchasing Management - Greater Grand Rapids</h3>
+                            <p>Role: Web Developer</p>
+                            <p>Duration: October 2002 - December 2002</p>
+                        </td>
+                    </tr>
+                </table>
+
+            </div>
+            <div class="work-item">
+                <table>
+                    <tr>
+                        <td class="col-img"><img src="./images/gvsu.png" alt="gvsu" class="fixed-size-w100"></td>
+                        <td class="col-text">
+                            <h3>Grand Valley State University</h3>
+                            <p>Role: IT Helpdesk Support - part time</p>
+                            <p>Duration: January 2001 - April 2003</p>
+                        </td>
+                    </tr>
+                </table>
+
+            </div>
+            <div class="work-item">
+                <table>
+                    <tr>
+                        <td class="col-img"><img src="./images/hermanmiller.png" alt="herman miller" class="fixed-size-w100"></td>
+                        <td class="col-text">
+                            <h3>Herman Miller</h3>
+                            <p>Role: IT Support - intern</p>
+                            <p>Duration: June 2001 - September 2001</p>
+                        </td>
+                    </tr>
+                </table>
+
+            </div>
+            <div class="work-item">
+                <table>
+                    <tr>
+                        <td class="col-img"><img src="./images/standardchartered.png" alt="standard chartered" class="fixed-size-w100"></td>
+                        <td class="col-text">
+                            <h3>Standard Chartered Bank</h3>
+                            <p>Role: IT Consultant</p>
+                            <p>Duration: February 1999 - June 2000</p>
+                        </td>
+                    </tr>
+                </table>
+
+            </div>
+            <div class="work-item">
+                <table>
+                    <tr>
+                        <td class="col-img"><img src="./images/standardchartered.png" alt="standard chartered" class="fixed-size-w100"></td>
+                        <td class="col-text">
+                            <h3>Standard Chartered Bank</h3>
+                            <p>Role: IT intern</p>
+                            <p>Duration: June 1998 - August 1998</p>
+                        </td>
+                    </tr>
+                </table>
+
+            </div>
+        </section>
+        <section id="projects" class="projects">
+            <h2>Projects</h2>
+            <div class="project-item">
+                <h3>Tech Refresh project to migrate 500 TB of hadoop data</h3>
+                <p>Description: </p>
+            </div>
+            <div class="project-item">
+                <h3>Home Equity Integration project</h3>
+                <p>Description: </p>
+            </div>
+            <div class="project-item">
+                <h3>ITSM data integration project</h3>
+                <p>Client: CDC </p>
+                <p>Description: </p>
+            </div>
+            <div class="project-item">
+                <h3>Decision Center project</h3>
+                <p>Client: Eli-Lilly </p>
+                <p>Description: </p>
+            </div>
+            <div class="project-item">
+                <h3>NICE datamart project</h3>
+                <p>Client: United Health Care</p>
+                <p>Description: </p>
+            </div>
+        </section>
+        <section id="schools" class="schools">
+            <h2>Schools</h2>
+            <div class="school-item">
+                <table>
+                    <tr>
+                        <td class="col-img"><img src="./images/UTAustin.png" alt="UT Austin" class="fixed-size-w100"></td>
+                        <td class="col-text">
+                            <h3>University of Texas at Austin</h3>
+                            <p>Degree: Master of Science in Data Science</p>
+                            <p>Duration: September 2021 - present</p>
+                        </td>
+                    </tr>
+                </table>
+
+            </div>
+            <div class="school-item">
+                <table>
+                    <tr>
+                        <td class="col-img"><img src="./images/gvsu.png" alt="gvsu" class="fixed-size-w100"></td>
+                        <td class="col-text">
+                            <h3>Grand Valley State University</h3>
+                            <p>Degree: Master of Science in Computer Information Systems</p>
+                            <p>Duration: September 2000 - April 2003</p>
+                        </td>
+                    </tr>
+                </table>
+
+            </div>
+            <div class="school-item">
+                <table>
+                    <tr>
+                        <td class="col-img"><img src="./images/ned.png" alt="NED" class="fixed-size-w100"></td>
+                        <td class="col-text">
+                            <h3>NED University of Engineering and Technology</h3>
+                            <p>Degree: Bachelor of Science in Computer Engineering</p>
+                            <p>Duration: January 1995 - May 1999</p>
+                        </td>
+                    </tr>
+                </table>
+
+            </div>
+        </section>
+        <section id="certifications" class="certifications"> <!-- Added Certifications section -->
+            <h2>Certifications</h2>
+            <div class="certification-item">
+                <h3>AWS Certified Database Specialty</h3>
+                <p>Institution: Amazon Web Services</p>
+                <p>Year: 2024</p>
+            </div>
+            <div class="certification-item">
+                <h3>AWS Certified Data Analytics Specialty</h3>
+                <p>Institution: Amazon Web Services</p>
+                <p>Year: 2024</p>
+            </div>
+            <div class="certification-item">
+                <h3>AWS Certified Machine Learning Specialty</h3>
+                <p>Institution: Amazon Web Services</p>
+                <p>Year: 2020</p>
+            </div>
+            <div class="certification-item">
+                <h3>AWS Certified Solutions Architect Associate</h3>
+                <p>Institution: Amazon Web Services</p>
+                <p>Year: 2019</p>
+            </div>
+            <div class="certification-item">
+                <h3>AWS Certified Big Data Specialty</h3>
+                <p>Institution: Amazon Web Services</p>
+                <p>Year: 2019</p>
+            </div>
+        </section>
+        <section id="trainings" class="trainings">
+            <h2>Trainings</h2>
+            <div class="training-item">
+                <h3>Advanced Teradata SQL</h3>
+                <p>Institution: Wells Fargo</p>
+                <p>Year: 2019</p>
+            </div>
+            <div class="training-item">
+                <h3>Ab Initio</h3>
+                <p>Institution: Ab Initio</p>
+                <p>Year: 2016</p>
+            </div>
+        </section>
+        <section id="contact">
+            <h2>Contact</h2>
+            <!-- Add your contact information here -->
+        </section>
+    </div>
+</body>
+</html>
