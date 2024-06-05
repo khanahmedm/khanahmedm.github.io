@@ -72,6 +72,14 @@
     "url": "www.alextech.edu"
   },
   {
+    "school": "Sysnet Education",
+    "courses": "Microsoft Certified Systems Engineer (MCSE) courses",
+    "duration": "October 1999 - November 1999",
+    "location": "Karachi, Pakistan",
+    "image": "sysnet.jpg",
+    "url": ""
+  },
+  {
     "school": "Petroman Training Institute",
     "courses": "GW Basic, dBase, FoxPro, C, COBOL, Accounting",
     "duration": "January 1996 - July 1996",
