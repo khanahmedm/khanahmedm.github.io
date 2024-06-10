@@ -27,7 +27,7 @@ function displayData7(data) {
                                 <tr>
                                     <td class="col-img"><a href="http://${certification.url}"><img src="images/${certification.image}" alt="${certification.certification}"></a></td>
                                     <td class="col-text">
-                                        <h3>Certification: ${certification.certification}</h3>
+                                        <h3>${certification.certification}</h3>
                                         <p>Issued By: ${certification.issuedBy}</p>
                                         <p>Issue Date: ${certification.issuedDate}</p>
                                         <p>Expiration Date: ${certification.expirationDate}</p>
