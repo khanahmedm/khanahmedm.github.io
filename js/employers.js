@@ -28,8 +28,9 @@ function displayData3(data) {
                                     <td class="col-img"><a href="http://${employer.url}"><img src="images/${employer.image}" alt="${employer.company}"></a></td>
                                     <td class="col-text">
                                         <h3>${employer.company}</h3>
-                                        <p>Role: ${employer.role}</p>
+                                        <p>Role: <b>${employer.role}</b></p>
                                         <p>Duration: ${employer.duration}</p>
+                                        <p>Location: ${employer.location}</p>
                                     </td>
                                 </tr>
                             </table>
