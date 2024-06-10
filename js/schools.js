@@ -28,7 +28,7 @@ function displayData5(data) {
                                     <td class="col-img"><a href="http://${school.url}"><img src="images/${school.image}" alt="${school.school}"></a></td>
                                     <td class="col-text">
                                         <h3>${school.school}</h3>
-                                        <p>Degree: ${school.degree}</p>
+                                        <p>Degree: <b>${school.degree}</b></p>
                                         <p>Courses: ${school.courses}</p>
                                         <p>Duration: ${school.duration}</p>
                                         <p>Location: ${school.location}</p>
