@@ -14,11 +14,11 @@ function displayData(data) {
     //authorInfo.style.fontSize = '5px'
 
     data.forEach(user => {
-        const userDiv = document.createElement('div');
+        const userDiv = document.createElement('nav');
         //userDiv.className = 'user';
         userDiv.classList.add('user');
         //userDiv.innerHTML = `<h1>${user.name}</h1><a c href="mailto:${user.email}>${user.email}</a>`;
-        userDiv.innerHTML = `<h1>${user.name}</h1>
+        userDiv.innerHTML = `<h1><a href="${user.href}">${user.name}</h1>
                                 <a style="font-size: 12px;" href="mailto:${user.email}">email</a>
                                 <a style="font-size: 12px;" href="http://${user.linkedin}">linkedin</a>
                                 <a style="font-size: 12px;" href="http://${user.github}">github</a>`;
