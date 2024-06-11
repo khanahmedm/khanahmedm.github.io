@@ -18,7 +18,8 @@ function displayIntro(data) {
         //userDiv.className = 'user';
         introDiv.classList.add('intro');
         //userDiv.innerHTML = `<h1>${user.name}</h1><a c href="mailto:${user.email}>${user.email}</a>`;
-        introDiv.innerHTML = `<p>${user.introduction}</p>`;
+        introDiv.innerHTML = `<img id="image" src="images/${user.image}" alt="Your Image" class="my-image">
+                                <p>${user.introduction}</p>`;
         intro.appendChild(introDiv);
     });
 }
