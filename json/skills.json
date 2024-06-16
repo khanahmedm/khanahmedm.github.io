@@ -10,6 +10,16 @@
         "image": "ETL-LogoMakr.png"
     },
     {        
+        "skillName": "Big Data",
+        "skills": "Hadoop, Hive, Kafka, Spark Streaming, Kinesis Data Streams, Kinesis Firehose",
+        "image": "BigData-LogoMakr.png"
+    },
+    {        
+        "skillName": "Machine Learning",
+        "skills": "SageMaker, NumPy, Pandas, Scikit-learn, Tensorflow",
+        "image": "ML-LogoMakr.png"
+    },
+    {        
         "skillName": "Databases",
         "skills": "Oracle, SQL Server, Teradata, IBM DB2, HP Vertica, MongoDB, BigTable, BigQuery, AWS RDS, DynamoDB, Redshift, EMR, Snowflake",
         "image": "DB-LogoMakr.png"
