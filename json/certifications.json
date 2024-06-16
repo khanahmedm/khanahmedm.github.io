@@ -18,6 +18,15 @@
     "url": "aws.amazon.com"
   },
   {
+    "certification": "IBM Machine Learning Professional Certificate",
+    "issuedBy": "IBM - Coursera",
+    "issuedDate": "February 2021",
+    "expirationDate": "-",
+    "location": "St. Louis, MO",
+    "image": "IBM_Machine_Learning.png",
+    "url": "aws.amazon.com"
+  },
+  {
     "certification": "AWS Certified Machine Learning Specialty",
     "issuedBy": "AWS",
     "issuedDate": "November 2020",
@@ -42,15 +51,6 @@
     "expirationDate": "February 2021",
     "location": "St. Louis, MO",
     "image": "aws_certified_solution_architect_associate.png",
-    "url": "aws.amazon.com"
-  },
-  {
-    "certification": "IBM Machine Learning Professional Certificate",
-    "issuedBy": "IBM",
-    "issuedDate": "February 2021",
-    "expirationDate": "-",
-    "location": "St. Louis, MO",
-    "image": "IBM_Machine_Learning.png",
     "url": "aws.amazon.com"
   },
   {
