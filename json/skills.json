@@ -1,0 +1,22 @@
+[
+    {
+        "skillName": "Reporting Tools",
+        "skills": "BusinessObjects Enterprise, Qlikview, MicroStrategy, Xcelsius, Cognos, SAS, QuickSight",
+        "image": "BI-LogoMakr.png"
+    },
+    {
+        "skillName": "ETL & Integration Tools",
+        "skills": "IBM DataStage, BusinessObjects Data Services, Informatica, Ab Initio, Cloud Dataflow, AWS Glue, Data Pipeline, Kinesis",
+        "image": "ETL-LogoMakr.png"
+    },
+    {        
+        "skillName": "Databases",
+        "skills": "Oracle, SQL Server, Teradata, IBM DB2, HP Vertica, MongoDB, BigTable, BigQuery, AWS RDS, DynamoDB, Redshift, EMR, Snowflake",
+        "image": "DB-LogoMakr.png"
+    },
+    {
+        "skillName": "Programming Languages",
+        "skills": "C, C++, SQL, PL/SQL, T-SQL, Python, Java, Unix shell scripting, PowerShell, JavaScript, R",
+        "image": "Programming-LogoMakr.png"
+    }
+]
