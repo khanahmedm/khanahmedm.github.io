@@ -1,0 +1,12 @@
+[
+    {
+        "contactMethod": "Email",
+        "contact": "<a href='mailto:khan.ahmed.m@outlook.com'>Email</a>",
+        "image": "email-LogoMakr.png"
+    },
+    {
+        "contactMethod": "Linkedin",
+        "contact": "<a href='http://www.linkedin.com/in/khanahmedm/en'>LinkedIn</a>",
+        "image": "linkedin-LogoMakr.png"
+    }
+]
