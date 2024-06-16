@@ -41,6 +41,7 @@ h1, h2 {
 section {
     padding: 150px 50px 20px;
     margin-top: 50px; /* Margin to separate sections visually */
+    margin-bottom: 20px;
     position: relative;
 }
 .container {
@@ -48,21 +49,21 @@ section {
     margin: 80px auto 20px; /* Adjusted margin-top to account for fixed header */
     padding: 0 20px;
 }
-.intro, .work-history, .projects, .certifications, .schools, .trainings, .repo, .contact {
+.intro, .work-history, .projects, .certifications, .schools, .trainings, .skills, .repo, .contact {
     margin-bottom: 40px;
 }
-.intro h2, .work-history h2, .projects h2, .certifications h2, .schools h2, .trainings h2, .repo h2, .contact h2 {
+.intro h2, .work-history h2, .projects h2, .certifications h2, .schools h2, .trainings h2, .skills h2, .repo h2, .contact h2 {
     border-bottom: 2px solid #333;
     padding-bottom: 10px;
 }
-.intro, .work-item, .project-item, .certification-item, .school-item, .training-item, .repo-item, .contact-item {
+.intro, .work-item, .project-item, .certification-item, .school-item, .training-item, .skill-item, .repo-item, .contact-item {
     margin-bottom: 20px;
 }
-.intro h3, .work-item h3, .project-item h3, .certification-item h3, .school-item h3, .training-item h3, .repo-item h3, .contact-item h3 {
+.intro h3, .work-item h3, .project-item h3, .certification-item h3, .school-item h3, .training-item h3, .skill-item h3, .repo-item h3, .contact-item h3 {
     margin-bottom: 5px;
     font-weight: 500; /* Updated font-weight */
 }
-.work-item p, .project-item p, .certification-item p, .school-item p, .training-item p, .repo-item p, .contact-item p {
+.work-item p, .project-item p, .certification-item p, .school-item p, .training-item p, .skill-item p, .repo-item p, .contact-item p {
     margin: 0;
 }
 .intro p {
@@ -143,4 +144,7 @@ img {
 .intro {
     overflow: hidden; /* Clear the float */
     margin-bottom: 20px; /* Same margin as the image */
+}
+.intro-para {
+    color: rgb(68, 67, 67);
 }
