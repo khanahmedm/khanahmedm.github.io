@@ -1,0 +1,38 @@
+[
+    {
+        "repoName": "Python for Everybody",
+        "skills": "Python, Data Structures, SQL",
+        "image": "Python.png",
+        "url": "https://github.com/khanahmedm/Python-coding"
+    },
+    {
+        "repoName": "Machine Learning in Python",
+        "skills": "Python, Jupyter Notebooks, NumPy, Pandas",
+        "image": "Jupyter_Python.png",
+        "url": "https://github.com/khanahmedm/MachineLearning-Python"
+    },
+    {
+        "repoName": "Data processing using Spark/Scala",
+        "skills": "Scala, Spark Streaming",
+        "image": "Scala_Spark.png",
+        "url": "https://github.com/khanahmedm/scala-spark-container"
+    },
+    {
+        "repoName": "Redshift",
+        "skills": "SQL, Stored Procedures, ETL, Data lake",
+        "image": "Redshift.png",
+        "url": "https://github.com/khanahmedm/Redshift/tree/main"
+    },
+    {
+        "repoName": "Kafka",
+        "skills": "Kafka, Java",
+        "image": "kafka.jpg",
+        "url": "https://github.com/khanahmedm/OnlineCourses/tree/main/Kafka"
+    },
+    {
+        "repoName": "Linux Shell Scripting",
+        "skills": "Linux, Shell Scripting",
+        "image": "shell_scripting.jpg",
+        "url": "https://github.com/khanahmedm/OnlineCourses/tree/main/LinuxShellScripting"
+    }
+]
