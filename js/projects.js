@@ -51,6 +51,7 @@ function displayData4(data) {
                                     </td>
                                 </tr>
                             </table>
+                            <hr>
                         `;
         //container.appendChild(menuItemDiv);
         projectList.appendChild(projectDiv);
