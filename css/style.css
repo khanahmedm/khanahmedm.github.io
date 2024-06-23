@@ -148,3 +148,10 @@ img {
 .intro-para {
     color: rgb(68, 67, 67);
 }
+#top-right-image {
+    position: absolute; /* Absolute positioning for precise placement */
+    top: 100px; /* 100 pixels from the top */
+    right: 0; /* 0 pixels from the right */
+    width: 500px; /* Adjust width as needed */
+    height: auto; /* Maintain aspect ratio */
+}
