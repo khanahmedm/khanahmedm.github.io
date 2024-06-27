@@ -6,6 +6,7 @@ body {
 }
 header {
     background-color: white;
+    background-image: url(../images/grunge-wall.png);
     color: #000;
     padding: 20px;
     display: flex;
@@ -19,6 +20,7 @@ header {
 }
 nav {
     background-color: white; /* Changed background color to white */
+    background-image: url(../images/grunge-wall.png);
     padding: 10px 10px 10px 0; /* Adjusted padding to shift nav links to the left */
     text-align: center;
 }
