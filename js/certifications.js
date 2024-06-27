@@ -2,26 +2,19 @@ async function fetchJSONData() {
     try {
         const response = await fetch('../json/certifications.json');
         const data = await response.json();
-        displayData7(data);
+        displayCertification(data);
     } catch (error) {
         console.error('Error fetching the JSON data:', error);
     }
 }
 
 // Function to display JSON data in the HTML
-function displayData7(data) {
-    //const container = document.getElementById('menu-list');
+function displayCertification(data) {
     const certificationList = document.getElementById('certifications-list');
-    //container.style.display = 'flex'; // Use flexbox to align items in a single line
-    //container.style.flexWrap = 'nowrap'; // Ensure items don't wrap to the next line
-    //container.style.gap = '5px'; // Add space between items
-
+    
     data.forEach(certification => {
         const certificationDiv = document.createElement('div');
-        //menuItemDiv.className = 'menuItem';
-        //workItemDiv.classList.add('menuItem');
         certificationDiv.classList.add('certification-item');
-        //menuItemDiv.innerHTML = `<a href="${menuItem.href}">${menuItem.name}</a>`;
         certificationDiv.innerHTML = `
                             <table>
                                 <tr>
@@ -35,7 +28,6 @@ function displayData7(data) {
                                 </tr>
                             </table>
                         `;
-        //container.appendChild(menuItemDiv);
         certificationList.appendChild(certificationDiv);
     });
 }

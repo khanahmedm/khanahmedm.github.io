@@ -10,18 +10,11 @@ async function fetchJSONData() {
 
 // Function to display JSON data in the HTML
 function displaySkills(data) {
-    //const container = document.getElementById('menu-list');
     const skillsList = document.getElementById('skills-list');
-    //container.style.display = 'flex'; // Use flexbox to align items in a single line
-    //container.style.flexWrap = 'nowrap'; // Ensure items don't wrap to the next line
-    //container.style.gap = '5px'; // Add space between items
-
+    
     data.forEach(skill => {
         const skillDiv = document.createElement('div');
-        //menuItemDiv.className = 'menuItem';
-        //workItemDiv.classList.add('menuItem');
         skillDiv.classList.add('skill-item');
-        //menuItemDiv.innerHTML = `<a href="${menuItem.href}">${menuItem.name}</a>`;
         skillDiv.innerHTML = `
                             <table>
                                 <tr>
@@ -33,7 +26,6 @@ function displaySkills(data) {
                                 </tr>
                             </table>
                         `;
-        //container.appendChild(menuItemDiv);
         skillsList.appendChild(skillDiv);
     });
 }

@@ -10,18 +10,11 @@ async function fetchJSONData() {
 
 // Function to display JSON data in the HTML
 function displayRepositories(data) {
-    //const container = document.getElementById('menu-list');
     const repositoriesList = document.getElementById('repositories-list');
-    //container.style.display = 'flex'; // Use flexbox to align items in a single line
-    //container.style.flexWrap = 'nowrap'; // Ensure items don't wrap to the next line
-    //container.style.gap = '5px'; // Add space between items
 
     data.forEach(repository => {
         const repositoryDiv = document.createElement('div');
-        //menuItemDiv.className = 'menuItem';
-        //workItemDiv.classList.add('menuItem');
         repositoryDiv.classList.add('repository-item');
-        //menuItemDiv.innerHTML = `<a href="${menuItem.href}">${menuItem.name}</a>`;
         repositoryDiv.innerHTML = `
                             <table>
                                 <tr>
@@ -34,7 +27,6 @@ function displayRepositories(data) {
                                 </tr>
                             </table>
                         `;
-        //container.appendChild(menuItemDiv);
         repositoriesList.appendChild(repositoryDiv);
     });
 }

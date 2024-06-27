@@ -2,26 +2,19 @@ async function fetchJSONData() {
     try {
         const response = await fetch('../json/projects.json');
         const data = await response.json();
-        displayData4(data);
+        displayProjects(data);
     } catch (error) {
         console.error('Error fetching the JSON data:', error);
     }
 }
 
 // Function to display JSON data in the HTML
-function displayData4(data) {
-    //const container = document.getElementById('menu-list');
+function displayProjects(data) {
     const projectList = document.getElementById('projects-list');
-    //container.style.display = 'flex'; // Use flexbox to align items in a single line
-    //container.style.flexWrap = 'nowrap'; // Ensure items don't wrap to the next line
-    //container.style.gap = '5px'; // Add space between items
-
+    
     data.forEach(project => {
         const projectDiv = document.createElement('div');
-        //menuItemDiv.className = 'menuItem';
-        //workItemDiv.classList.add('menuItem');
         projectDiv.classList.add('project-item');
-        //menuItemDiv.innerHTML = `<a href="${menuItem.href}">${menuItem.name}</a>`;
         projectDiv.innerHTML = `
                             <table>
                                 <tr>
@@ -53,7 +46,6 @@ function displayData4(data) {
                             </table>
                             <hr>
                         `;
-        //container.appendChild(menuItemDiv);
         projectList.appendChild(projectDiv);
     });
 }
