@@ -1,3 +1,6 @@
+html {
+    scroll-behavior: smooth;
+  }
 body {
     font-family: 'Roboto', sans-serif; /* Updated font-family */
     margin: 0;
@@ -23,6 +26,8 @@ nav {
     background-image: url(../images/grunge-wall.png);
     padding: 10px 10px 10px 0; /* Adjusted padding to shift nav links to the left */
     text-align: center;
+    text-decoration: none;
+    transition: text-shadow 0.3s;
 }
 nav a {
     text-decoration: none;
@@ -122,6 +127,20 @@ object-fit: cover; /* Ensures the image covers the area */
 img {
     max-width: 100%;
     height: auto;
+}
+
+.nav-link {
+    /* Optional: Add styles for the menu items */
+    padding: 5px;
+    /*margin: 0 15px;*/
+    text-decoration: none;
+    color: black;
+    transition: text-shadow 0.3s;
+}
+
+/* Shadow effect */
+.nav-link.active {
+    text-shadow: 10px 10px 15px rgba(46, 47, 87, 0.89);
 }
 
 .menuItem {
