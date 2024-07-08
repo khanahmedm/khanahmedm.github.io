@@ -18,7 +18,7 @@ function displayNavMenu(data) {
     data.forEach(menuItem => {
         const menuItemDiv = document.createElement('nav');
         menuItemDiv.classList.add('menuItem');
-        menuItemDiv.innerHTML = `<a href="${menuItem.href}">${menuItem.name}</a>`;
+        menuItemDiv.innerHTML = `<a href="${menuItem.href}" class="nav-link">${menuItem.name}</a>`;
         container.appendChild(menuItemDiv);
     });
 }
