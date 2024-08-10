@@ -44,6 +44,10 @@ h1, h2 {
     margin: 0;
     font-weight: 700; /* Updated font-weight */
 }
+h4 {
+    margin: 0;
+    font-weight: 400; /* Updated font-weight */
+}
 /* Style for sections to give them some height */
 section {
     padding: 150px 50px 20px;
@@ -76,6 +80,10 @@ section {
 .intro p {
     padding: 10px;
     line-height: 1.5;
+}
+.work-item h4 {
+    margin-bottom: 0px;
+    font-weight: 400; /* Updated font-weight */
 }
 
 table {
@@ -278,3 +286,15 @@ footer {
     font-size: 14px;
     color: #333;
   }
+
+.details {
+    display: none;
+    margin-top: 10px;
+    line-height: 1.5;
+}
+
+.show-more {
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+}
