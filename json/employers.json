@@ -1,131 +1,275 @@
 [
   {
     "company": "Amazon Web Services",
+    "organization": "Enterprise Support",
     "role": "Senior Technical Account Manager",
-    "duration": "September 2022 - present",
+    "duration": "September 2022 - August 2024",
     "location": "St. Louis, MO",
     "image": "aws.png",
-    "url": "aws.amazon.com"
+    "url": "aws.amazon.com",
+    "description": [
+        "Developed customer relationships to understand business needs and technical challenges and helped them achieve best value from AWS.", 
+        "Guided customers in adopting Generative-AI solutions with Amazon Q, Bedrock, Kendra, and SageMaker.", 
+        "Enabled a financial firm successfully modernize and migrate Health Savings Account workload to AWS.",
+        "Helped a financial industry client enhance their security posture health score from 60% to 90%.",
+        "Assisted a major energy sector client in realizing annual cost savings of up to $800,000.",
+        "Supported a payment industry client successfully implement Entity-Resolution Platform utilizing SageMaker, and OpenSearch.",
+        "Led a team of TAMs to build an internal Gemba Walk Tracker (Flask web application) for tracking opportunities for productivity gains.",
+        "Amazon internal builder skills: Brazil, Turtle, CRUX, Pipelines, Apollo, Redfort, Fleet Management, VIP"
+        ],
+    "skills": "Strategic Support Planning, Business and Operational Analysis, Cloud Financial Analysis, Linux, Python, SQL"
   },
   {
     "company": "Wells Fargo",
+    "organization": "Enterprise Technology - Platform Services Group",
     "role": "Lead Infrastructure Engineer",
-    "duration": "November 2019 - September 2022",
+    "duration": "April 2022 - September 2022",
     "location": "St. Louis, MO",
     "image": "wellsfargo.png",
-    "url": "www.wellsfargo.com"
+    "url": "www.wellsfargo.com",
+    "description": [ 
+      "Led an effort to automate Fargo code (microservices) deployment pipeline to three data centers, saving 100’s of man-hours each month.",
+      "Successfully migrated on-premise Virtual Assistant (NLP engine) to Google Dialogflow on GCP.",
+      "Created production runbook to support Google Dialogflow and enabled team members through knowledge transfer and shadowing."
+     ],
+    "skills": "Red Hat Linux, Oracle, Google Cloud Platform, Python, Shell scripting, Terraform, Vault, Kafka, Autosys, Ansible, F5, Splunk"
   },
   {
     "company": "Wells Fargo",
+    "organization": "Enterprise Technology - Data Services Application Support",
+    "role": "Lead Infrastructure Engineer",
+    "duration": "November 2019 - April 2022",
+    "location": "St. Louis, MO",
+    "image": "wellsfargo.png",
+    "url": "www.wellsfargo.com",
+    "description": [ 
+      "Led a team of production support staff to provide 24/7 coverage for 500TB data migration effort during Hortonworks Tech Refresh project.",
+      "Improved internal processes by monitoring performance of SLAs/OLAs, creating preventative action items using incident management metrics, and replacing manual redundant tasks through automation that resulted in overall reduction of issues by 50% YOY.",
+      "Partnered with various application teams to onboard applications, maintain the health of data engineering pipelines, and assist with RCA." 
+      ],
+    "skills": "Red Hat Linux, Teradata, Ab Initio, Oracle, SQL, Hadoop, Hive, Python, Shell scripting, Kafka, Spark Streaming, Autosys"
+  },
+  {
+    "company": "Wells Fargo",
+    "organization": "Enterprise Technology - Credit Risk Management Data Infrastructure",
     "role": "Senior Database Analyst",
     "duration": "May 2016 - November 2019",
     "location": "St. Louis, MO",
     "image": "wellsfargo.png",
-    "url": "www.wellsfargo.com"
+    "url": "www.wellsfargo.com",
+    "description": [ 
+      "Led a team of onshore and offshore ETL and SQL developers to design and implement the data warehouse solution (star-schema).",
+      "The project resulted in significant savings by reducing the number of data hops to reach system of record and aligning the overall solution with enterprise data strategy objectives.",
+      "Enabled developers new to Ab Initio ETL platform through knowledge transfer and hands-on jira assignments."
+     ],
+    "skills": "SQL Server 2014, Teradata 15, SQL, T-SQL, Ab Initio, Linux, TFS, Jira, UDeploy, Jenkins, Autosys, Business Analysis"
   },
   {
     "company": "Flexera Software",
+    "organization": "Consulting Services",
     "role": "Senior Consultant",
     "duration": "June 2015 - March 2016",
     "location": "St. Louis, MO",
     "image": "flexera.png",
-    "url": "www.flexera.com"
+    "url": "www.flexera.com",
+    "description": [ 
+      "<b>Solution Architect – Financial Industry</b>",
+      "Led Planning & Design workshop to identify inventory and business data sources to perform license reconciliation",
+      "The solution helped SAM maturity level to have the visibility into assets, purchases orders and contracts.",
+      "<b>Solution Architect – Engineering Professional Services Industry</b>",
+      "Provided customized solutions [$200,000] to bring Purchase Orders and Contracts data to establish software entitlements.",
+      "Solution provided insights into contracts and compliance and prepared the customer for software license audits." 
+    ],
+    "skills": "FlexNet Manager Suite Cloud, SQL Server 2012, Cognos 10, PowerShell 4"
   },
   {
     "company": "Daugherty Business Solutions",
+    "organization": "Information Management Practice",
     "role": "Consultant",
     "duration": "September 2014 - June 2015",
     "location": "St. Louis, MO",
     "image": "dbs.jpg",
-    "url": "www.daugherty.com"
+    "url": "www.daugherty.com",
+    "description": [ 
+      "<b>Solution Architect – Manufacturing Industry</b>",
+      "Re-engineered the global supply chain management reports that caused performance issues due to inefficient design.",
+      "Provided subject matter expert [SME] guidance to develop optimal and faster queries at report and database levels.",
+      "The Key Performance Indicators helped identify issues in supply chain processes.",
+      "<b>Solution Architect – Healthcare (Pharmaceutical) Industry</b>",
+      "Performed due diligence and recommended best solution for Project Portfolio Management reporting requirements.",
+      "Developed a reconciliation report by merging data extracts.",
+      "Assisted Project Management office with creating a detailed project plan to ensure successful delivery of the reporting solution."
+     ],
+    "skills": "BusinessObjects 4, Teradata 14, SQL, Business Analysis"
   },
   {
     "company": "Hewlett Packard",
+    "organization": "HP Software Professional Services",
     "role": "Technology Consultant",
     "duration": "April 2007 - September 2014",
     "location": "St. Louis, MO",
     "image": "hp.png",
-    "url": "www.hp.com"
+    "url": "www.hp.com",
+    "description": [ 
+      "<b>IT Service Management Data Architect - US Government Account</b>",
+      "Led design and implementation of data migration architecture to merge IT Service Management data from two HP Service Center (SC) instances into one HP Service Manager (SM) instance.",
+      "Successfully consolidated 7 years of Service Desk, Incident, Change Management and Foundation data from two Service Center instances.",
+      "Reduced cost for administering and maintaining two instances by merging into one system.",
+      "<b>IT Analytics Team Lead – Financial Industry</b>",
+      "Designed and implemented end-to-end Service Level Management and Reporting solution using HP Executive Scorecard.",
+      "Assisted Project Management to formulize a complete project plan using Agile approach.",
+      "Supervised the work of onsite and off-shore development teams; delegated project tasks to developers.",
+      "<b>IT Analytics Team Lead – Pharmaceutical Industry</b>",
+      "Implemented HP DecisionCenter solution for IT Service Management and Asset Management reporting.",
+      "Provided a framework to capture, summarize and display KPIs and metrics per IT contractual agreements based on SLAs.",
+      "Conducted a successful demo of HP Executive Scorecard and assisted the HP Sales team to win the opportunity.",
+      "Managed a team of off-shore newly hired developers; performed enablement on BusinessObjects reporting tool."
+     ],
+    "skills": "HP Service Manager, HP Service Center, HP Connect-It, SQL Server 2012, SSIS, SQL, T-SQL, Business Analysis, HP DecisionCenter, BOE XI R2, BOE 3, BOE 4, Xcelsius, Oracle 11g, SQL, PL/SQL"
   },
   {
     "company": "Ingenix - United Health Group",
+    "organization": "Enterprise Technology",
     "role": "Senior Application Developer",
     "duration": "April 2006 - April 2007",
     "location": "St. Louis, MO",
     "image": "uhg.png",
-    "url": "www.unitedhealthgroup.com"
+    "url": "www.unitedhealthgroup.com",
+    "description": [ 
+      "<b>ETL Lead",
+      "Managed off-shore resources to implement highly complex ETL design in IBM DataStage PX for Scorecard Reporting; assigned tasks to developers depending on expertise; kept track of their progress.",
+      "Successfully deployed ETL solution; provided Key Account Management to improve consultative services to over 4000 customers.",
+      "<b>ETL Developer",
+      "Led ETL development efforts to integrate PacifiCare NICE datamart into ARO (Audit & Recovery Operations)",
+      "Successful Deployment in production; helped in recovering dollar amounts and savings from outsource contract in maintenance."
+     ],
+    "skills": "IBM DataStage, Oracle 10g, SQL, PL/SQL, Unix shell scripting, Autosys, Business Analysis"
   },
   {
     "company": "Oracle Corporation",
+    "organization": "Advanced Technology Services",
     "role": "Consultant",
     "duration": "November 2004 - April 2006",
     "location": "St. Louis, MO",
     "image": "oracle.png",
-    "url": "www.oracle.com"
+    "url": "www.oracle.com",
+    "description": [ 
+      "<b>Technical Lead – Oracle Business Activity Monitoring 10g",
+      "Delivery Lead for a brand new innovative product for monitoring real-time data in form of reports and charts.",
+      "Presented technical overview of Oracle BAM architecture to consulting community in Application and Technology pillars",
+      "<b>Business Intelligence and ETL Developer – Manufacturing Industry",
+      "Architected a customized Supply Chain Management Data Warehouse based on Demand Management (DM), Production & Distribution Planning (PDP), and internal legacy systems provided data. Created a Reporting Solution using MicroStrategy.",
+      "Provided training to business users on the structure of the customized Data Warehouse, MicroStrategy Desktop and Administration and Ascential DataStage Designer, Director, Manager, and Administrator."
+     ],
+    "skills": "Oracle BAM 10g, Oracle 10g, SQL, PeopleSoft CRM, DataStage, MicroStrategy"
   },
   {
     "company": "Alta Resources",
+    "organization": "Information Technology",
     "role": "Application Developer",
     "duration": "March 2004 - November 2004",
     "location": "Kalamazoo, MI",
     "image": "altaresources.jpg",
-    "url": "www.altaresources.com"
+    "url": "www.altaresources.com",
+    "description": [ 
+      "Developed custom applications for ad-hoc reporting needs using VB, T-SQL, and DTS packages.",
+      "Created processes to send and receive customer data using PGP cryptographic software, transform and load into the databases."
+     ],
+    "skills": "SQL Server, T-SQL, DTS, VB, PGP"
   },
   {
     "company": "Amway Corporation",
+    "organization": "Access Business Group - Information Technology",
     "role": "Software Developer - graduate intern",
     "duration": "May 2003 - March 2004",
     "location": "Ada, MI",
     "image": "amway.png",
-    "url": "www.amway.com"
+    "url": "www.amway.com",
+    "description": [ 
+      "Played a significant role in deploying JD Edwards Business Intelligence solution that comprised of Informatica and MicroStrategy tools.",
+      "Designed and developed PeopleSoft Business Intelligence Information site to show JD Edwards source and DW target metadata.",
+      "Developed a web application for JD Edwards Change Request Workflow Management."
+     ],
+    "skills": "SQL Server, Oracle, SQL, T-SQL, ASP (Active Server Pages), Informatica, MicroStrategy"
   },
   {
     "company": "Jemco Logics",
+    "organization": "Information Technology",
     "role": "Web Application Developer - intern",
     "duration": "February 2003 - April 2003",
     "location": "Allendale, MI",
     "image": "jemcologics.jpg",
-    "url": "www.jemcologics.com"
+    "url": "www.jemcologics.com",
+    "description": [ 
+      "Built a web application for Marketing department for tracking leads."
+    ],
+    "skills": "ASP (Active Server Pages), Microsoft Access"
   },
   {
     "company": "National Association of Purchasing Management - Greater Grand Rapids",
+    "organization": "Freelance",
     "role": "Web Developer - intern",
     "duration": "October 2002 - December 2002",
     "location": "Allendale, MI",
     "image": "napm.gif",
-    "url": "www.ismworld.com"
+    "url": "www.ismworld.com",
+    "description": [ "Built a website for National Association of Purchasing Management - Greater Grand Rapids chapter." ],
+    "skills": "HTML, CSS, JavaScript"
   },
   {
     "company": "Grand Valley State University",
+    "organization": "Information Technology",
     "role": "IT Helpdesk Support - part time",
     "duration": "January 2001 - April 2003",
     "location": "Allendale, MI",
     "image": "gvsu.png",
-    "url": "www.gvsu.edu"
+    "url": "www.gvsu.edu",
+    "description": [ 
+      "Provided technical support to troubleshoot issues in the student community.",
+      "Monitoring health of Data Center applications and devices."
+     ],
+    "skills": "Windows and Linux network troubleshooting"
   },
   {
     "company": "Herman Miller",
+    "organization": "Information Technology",
     "role": "IT Support - intern",
     "duration": "June 2001 - September 2001",
     "location": "Zeeland, MI",
     "image": "hermanmiller.png",
-    "url": "www.hermanmiller.com"
+    "url": "www.hermanmiller.com",
+    "description": [ 
+      "Supported Windows 2000 rollout in all office locations in West Michigan." 
+      ],
+    "skills": "Windows 95/98, Windows 2000, Network and PC troubleshooting"
   },
   {
     "company": "Standard Chartered Bank",
+    "organization": "Information Technology",
     "role": "IT Consultant",
     "duration": "February 1999 - June 2000",
     "location": "Karachi, Pakistan",
     "image": "standardchartered.png",
-    "url": "www.standardchartered.com"
+    "url": "www.standardchartered.com",
+    "description": [ 
+      "Played an active role during Y2K project and ATM centralization project.",
+      "Provided end-to-end support for ATMs - from data centers to ATM machines as well as administration of ATM software on NCR Unix platform." 
+      ],
+    "skills": "NCR Unix, AS/400, RPG"
   },
   {
     "company": "Standard Chartered Bank",
+    "organization": "Information Technology",
     "role": "IT intern",
     "duration": "June 1998 - August 1998",
     "location": "Karachi, Pakistan",
     "image": "standardchartered.png",
-    "url": "www.standardchartered.com"
+    "url": "www.standardchartered.com",
+    "description": [ 
+        "Assisted finding a problem account in the database by using divide and conquer strategy.",
+        "Tested and demonstrated a new financial solution to consumer banking business executives." 
+      ],
+    "skills": "SQL, SCO Unix"
   }
 
 ]
