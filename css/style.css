@@ -291,6 +291,7 @@ footer {
     display: none;
     margin-top: 10px;
     line-height: 1.5;
+    transition: height 0.3s ease, opacity 0.3s ease, padding 0.3s ease;
 }
 
 .show-more {
