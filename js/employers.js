@@ -18,9 +18,31 @@ async function fetchJSONData() {
 
             if (details.style.display === 'none' || details.style.display === '') {
                 details.style.display = 'block';
+                details.style.height = 'auto';
+
+                let autoHeight = details.scrollHeight + 'px'; // Capture the auto height
+
+                details.style.height = '0px'; // Reset to 0 height before transition
+                details.style.opacity = '0'; // Set opacity to 0 before transition
+                details.style.overflow = 'hidden';
+
+                setTimeout(() => {
+                    details.style.height = autoHeight; // Transition to the full height
+                    details.style.opacity = '1';
+                }, 10);
+
                 this.textContent = 'Show Less';
             } else {
-                details.style.display = 'none';
+                //details.style.display = 'none';
+                // Transition back to 0 height and 0 opacity
+                details.style.height = '0px';
+                details.style.opacity = '0';
+
+                // After the transition, set display to none
+                setTimeout(() => {
+                    details.style.display = 'none';
+                }, 300); // Match the duration of the CSS transition (0.5s)
+
                 this.textContent = 'Show More';
             }
         });
