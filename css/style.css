@@ -1,6 +1,6 @@
-html {
+/* html {
     scroll-behavior: smooth;
-  }
+  } */
 body {
     font-family: 'Roboto', sans-serif; /* Updated font-family */
     margin: 0;
@@ -59,6 +59,7 @@ section {
     max-width: 800px;
     margin: 80px auto 20px; /* Adjusted margin-top to account for fixed header */
     padding: 0 20px;
+    scroll-behavior: smooth;
 }
 .intro, .work-history, .projects, .certifications, .schools, .trainings, .skills, .repositories, .contact {
     margin-bottom: 40px;
