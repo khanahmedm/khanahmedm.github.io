@@ -10,7 +10,7 @@ async function fetchJSONData() {
 
 // Function to display JSON data in the HTML
 function displayIntro(data) {
-    const intro = document.getElementById('intro');
+    const intro = document.getElementById('intro-list');
 
     data.forEach(user => {
         const introDiv = document.createElement('div');
