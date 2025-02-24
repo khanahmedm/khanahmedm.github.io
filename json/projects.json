@@ -69,7 +69,7 @@
     "diagram": "Boeing_HP_DecisionCenter.drawio.html",
     "diagram_image": "Boeing_HP_DecisionCenter.jpg",
     "skills": "DecisionCenter 2.0, BusinessObjects Enterprise XI R2 SP1, Connect-It 3.81, Tomcat 5.0, Oracle 10g, Windows 2003 Server, HP-UX, SQL",
-    "description": "Deployment of ITPA for SM and AM Data Warehouses and ETL scenarios in the development environment.\nDeployment of BO on Windows and DC application server on HP-UX.\nDeployment of Optimization on HP-UX.\nAssisted the customer building the install doc for all DC components.\nConducted online user training (three-day sessions) on Connect-It, BusinessObjects, and DC."
+    "description": "Deployment of ITPA (IT Performance Analytics) for HP Service Manager and HP Asset Manager.\nDevelopment of Data Warehouses and ETL jobs in the development environment.\nDeployment of BusinessObjects on Windows and DecisionCenter application server on HP-UX.\nDeployment of Optimization on HP-UX.\nAssisted the customer building the install doc for all DC components.\nConducted online user training (three-day sessions) on Connect-It, BusinessObjects, and DC."
   },
   {
     "project": "Decision Center Implementation",
@@ -81,7 +81,7 @@
     "diagram": "USBank_HP_DecisionCenter.drawio.html",
     "diagram_image": "USBank_HP_DecisionCenter.jpg",
     "skills": "DecisionCenter 2.0, BusinessObjects Enterprise XI R2 SP1, Connect-It 3.81, Tomcat 5.0, Oracle 10g, Windows 2003 Server, SQL",
-    "description": "Deployment of ITPA for SM Data Warehouse and ETL scenarios in the DEV, IT, UAT, PROD, and DR environments.\nModified ETL scenarios to fix data quality issues.\nTested out-of-the-box webi reports and analytics; created new reports.\nKnowledge transfer to USB resource on BO and CIT ETL processes."
+    "description": "Deployment of ITPA (IT Performance Analytics) for SM Data Warehouse and ETL scenarios in the DEV, IT, UAT, PROD, and DR environments.\nModified ETL jobs to fix data quality and data integrity issues.\nTested out-of-the-box web intelligence reports and analytics; created new custom reports as per business requirements.\nKnowledge transfer to US Bank resources on BusinessObjects (universes and web intelligence reports)and Connect-It (ETL processes)."
   },
   {
     "project": "Decision Center Implementation",
@@ -93,7 +93,7 @@
     "diagram": "Barclays_HP_DecisionCenter.drawio.html",
     "diagram_image": "Barclays_HP_DecisionCenter.jpg",
     "skills": "DecisionCenter 2.0, BusinessObjects Enterprise XI, Connect-It 3.81, Tomcat 5, Oracle 10g, Windows 2003 Server, SQL",
-    "description": "Installation and configuration of DC 2.0 for PoC. \nInstallation and configuration of DC 2.0 on Dev and Prod environments.\nDevelopment and modification of ETL processes in Connect-It.\nDevelopment of BO universe objects for custom reports.\nDevelopment of custom Webi reports related to Incident, Interaction, and Incident-Interaction relationships.\nConfiguration of Windows Active Directory authentication on BO and DC."
+    "description": "Installation and configuration of DecisionCenter 2.0 for PoC. \nInstallation and configuration of DecisionCenter 2.0 on Dev and Prod environments.\nDevelopment and modification of ETL jobs in Connect-It.\nDevelopment of BusinessObjects universe (dimensions and measures) for custom reports.\nDevelopment of custom Webi reports related to Incident, Interaction, and Incident-Interaction relationships.\nConfiguration of Windows Active Directory authentication on BusinessObjects and DecisionCenter."
   },
   {
     "project": "BIDE Data Warehouse Implementation",
