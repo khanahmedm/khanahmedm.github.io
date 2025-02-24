@@ -34,5 +34,11 @@
         "skills": "Linux, Shell Scripting",
         "image": "shell_scripting.jpg",
         "url": "https://github.com/khanahmedm/OnlineCourses/tree/main/LinuxShellScripting"
+    },
+    {
+        "repoName": "PostgreSQL",
+        "skills": "SQL - DDL, DML",
+        "image": "postgresql.jpg",
+        "url": "https://github.com/khanahmedm/PostgreSQL"
     }
 ]
