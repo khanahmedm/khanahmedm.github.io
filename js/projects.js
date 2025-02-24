@@ -16,7 +16,7 @@ function displayProjects(projects) {
 
         var diagram = document.createElement('div');
         diagram.classList.add('project-diagram');
-        diagram.innerHTML = "<img src='images/" + project.diagram_image + "'>";
+        diagram.innerHTML = "<img src='images/" + project.diagram_image + "' alt='" + project.project + "' >";
 
         var title = document.createElement('div');
         title.classList.add('project-title');
@@ -60,7 +60,7 @@ function openModal(project) {
     });
 
     var modalTitle = document.createElement('h2');
-    modalTitle.innerHTML = project.project + "<img class='logo' src='images/" + project.image + "'>";
+    modalTitle.innerHTML = project.project + "<img class='logo' src='images/" + project.image + "' alt='" + project.client + "'>";
 
     var modalClient = document.createElement('p');
     modalClient.innerHTML = "Client: <b>" + project.client + "</b>";
