@@ -18,6 +18,12 @@
         "url": "https://github.com/khanahmedm/scala-spark-container"
     },
     {
+        "repoName": "Data processing using PySpark",
+        "skills": "Python, Spark SQL, PySpark",
+        "image": "pyspark.png",
+        "url": "https://github.com/khanahmedm/PySpark-Project"
+    },
+    {
         "repoName": "Redshift",
         "skills": "SQL, Stored Procedures, ETL, Data lake",
         "image": "Redshift.png",
