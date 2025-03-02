@@ -46,5 +46,11 @@
         "skills": "SQL - DDL, DML",
         "image": "postgresql.jpg",
         "url": "https://github.com/khanahmedm/PostgreSQL"
+    },
+    {
+        "repoName": "Gen-AI ChatApp",
+        "skills": "Python, Bedrock, LLM, LangChain",
+        "image": "gen-ai-1.png",
+        "url": "https://github.com/khanahmedm/GenAI-Bedrock-ChatApp"
     }
 ]
