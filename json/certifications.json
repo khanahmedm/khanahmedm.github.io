@@ -6,7 +6,8 @@
     "expirationDate": "April 2027",
     "location": "St. Louis, MO",
     "image": "aws_certified_database.png",
-    "url": "aws.amazon.com"
+    "url": "aws.amazon.com",
+    "show": "yes"
   },
   {
     "certification": "AWS Certified Data Analytics Specialty",
@@ -15,7 +16,8 @@
     "expirationDate": "February 2027",
     "location": "St. Louis, MO",
     "image": "aws_certified_data_analytics.png",
-    "url": "aws.amazon.com"
+    "url": "aws.amazon.com",
+    "show": "yes" 
   },
   {
     "certification": "IBM Machine Learning Professional Certificate",
@@ -24,7 +26,8 @@
     "expirationDate": "-",
     "location": "St. Louis, MO",
     "image": "IBM_Machine_Learning.png",
-    "url": "aws.amazon.com"
+    "url": "aws.amazon.com",
+    "show": "yes"
   },
   {
     "certification": "AWS Certified Machine Learning Specialty",
@@ -33,7 +36,8 @@
     "expirationDate": "November 2023",
     "location": "St. Louis, MO",
     "image": "aws_certified_machine_learning.png",
-    "url": "aws.amazon.com"
+    "url": "aws.amazon.com",
+    "show": "yes"
   },
   {
     "certification": "AWS Certified Big Data Specialty",
@@ -42,7 +46,8 @@
     "expirationDate": "August 2022",
     "location": "St. Louis, MO",
     "image": "aws_certified_big_data.png",
-    "url": "aws.amazon.com"
+    "url": "aws.amazon.com",
+    "show": "yes"
   },
   {
     "certification": "AWS Certified Solution Architect Associate",
@@ -51,7 +56,8 @@
     "expirationDate": "February 2021",
     "location": "St. Louis, MO",
     "image": "aws_certified_solution_architect_associate.png",
-    "url": "aws.amazon.com"
+    "url": "aws.amazon.com",
+    "show": "yes"
   },
   {
     "certification": "HP Integration Specialist - Service Manager",
@@ -60,7 +66,8 @@
     "expirationDate": "-",
     "location": "St. Louis, MO",
     "image": "HP-Accredited-Integration-Specialist.jpg",
-    "url": "www.hp.com"
+    "url": "www.hp.com",
+    "show": "yes"
   },
   {
     "certification": "ITIL v3 Foundations",
@@ -69,7 +76,8 @@
     "expirationDate": "-",
     "location": "St. Louis, MO",
     "image": "itil_foundation.jpg",
-    "url": "www.hp.com"
+    "url": "www.hp.com",
+    "show": "yes"
   },
   {
     "certification": "Microsoft Certified Professional",
@@ -78,7 +86,8 @@
     "expirationDate": "January 2001",
     "location": "Karachi, Pakistan",
     "image": "mcp.png",
-    "url": "www.microsoft.com"
+    "url": "www.microsoft.com",
+    "show": "no"
   }
 
 ]
