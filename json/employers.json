@@ -17,7 +17,8 @@
         "Led a team of TAMs to build an internal Gemba Walk Tracker (Flask web application) for tracking opportunities for productivity gains.",
         "Amazon internal builder skills: Brazil, Turtle, CRUX, Pipelines, Apollo, Redfort, Fleet Management, VIP"
         ],
-    "skills": "Strategic Support Planning, Business and Operational Analysis, Cloud Financial Analysis, Linux, Python, SQL"
+    "skills": "Strategic Support Planning, Business and Operational Analysis, Cloud Financial Analysis, Linux, Python, SQL",
+    "show": "yes"
   },
   {
     "company": "Wells Fargo",
@@ -32,7 +33,8 @@
       "Successfully migrated on-premise Virtual Assistant (NLP engine) to Google Dialogflow on GCP.",
       "Created production runbook to support Google Dialogflow and enabled team members through knowledge transfer and shadowing."
      ],
-    "skills": "Red Hat Linux, Oracle, Google Cloud Platform, Python, Shell scripting, Terraform, Vault, Kafka, Autosys, Ansible, F5, Splunk"
+    "skills": "Red Hat Linux, Oracle, Google Cloud Platform, Python, Shell scripting, Terraform, Vault, Kafka, Autosys, Ansible, F5, Splunk",
+    "show": "yes"
   },
   {
     "company": "Wells Fargo",
@@ -47,7 +49,8 @@
       "Improved internal processes by monitoring performance of SLAs/OLAs, creating preventative action items using incident management metrics, and replacing manual redundant tasks through automation that resulted in overall reduction of issues by 50% YOY.",
       "Partnered with various application teams to onboard applications, maintain the health of data engineering pipelines, and assist with RCA." 
       ],
-    "skills": "Red Hat Linux, Teradata, Ab Initio, Oracle, SQL, Hadoop, Hive, Python, Shell scripting, Kafka, Spark Streaming, Autosys"
+    "skills": "Red Hat Linux, Teradata, Ab Initio, Oracle, SQL, Hadoop, Hive, Python, Shell scripting, Kafka, Spark Streaming, Autosys",
+    "show": "yes"
   },
   {
     "company": "Wells Fargo",
@@ -62,7 +65,8 @@
       "The project resulted in significant savings by reducing the number of data hops to reach system of record and aligning the overall solution with enterprise data strategy objectives.",
       "Enabled developers new to Ab Initio ETL platform through knowledge transfer and hands-on jira assignments."
      ],
-    "skills": "SQL Server 2014, Teradata 15, SQL, T-SQL, Ab Initio, Linux, TFS, Jira, UDeploy, Jenkins, Autosys, Business Analysis"
+    "skills": "SQL Server 2014, Teradata 15, SQL, T-SQL, Ab Initio, Linux, TFS, Jira, UDeploy, Jenkins, Autosys, Business Analysis",
+    "show": "yes"
   },
   {
     "company": "Flexera Software",
@@ -80,7 +84,8 @@
       "Provided customized solutions [$200,000] to bring Purchase Orders and Contracts data to establish software entitlements.",
       "Solution provided insights into contracts and compliance and prepared the customer for software license audits." 
     ],
-    "skills": "FlexNet Manager Suite Cloud, SQL Server 2012, Cognos 10, PowerShell 4"
+    "skills": "FlexNet Manager Suite Cloud, SQL Server 2012, Cognos 10, PowerShell 4",
+    "show": "yes"
   },
   {
     "company": "Daugherty Business Solutions",
@@ -100,7 +105,8 @@
       "Developed a reconciliation report by merging data extracts.",
       "Assisted Project Management office with creating a detailed project plan to ensure successful delivery of the reporting solution."
      ],
-    "skills": "BusinessObjects 4, Teradata 14, SQL, Business Analysis"
+    "skills": "BusinessObjects 4, Teradata 14, SQL, Business Analysis",
+    "show": "yes"
   },
   {
     "company": "Hewlett Packard",
@@ -125,7 +131,8 @@
       "Conducted a successful demo of HP Executive Scorecard and assisted the HP Sales team to win the opportunity.",
       "Managed a team of off-shore newly hired developers; performed enablement on BusinessObjects reporting tool."
      ],
-    "skills": "HP Service Manager, HP Service Center, HP Connect-It, SQL Server 2012, SSIS, SQL, T-SQL, Business Analysis, HP DecisionCenter, BOE XI R2, BOE 3, BOE 4, Xcelsius, Oracle 11g, SQL, PL/SQL"
+    "skills": "HP Service Manager, HP Service Center, HP Connect-It, SQL Server 2012, SSIS, SQL, T-SQL, Business Analysis, HP DecisionCenter, BOE XI R2, BOE 3, BOE 4, Xcelsius, Oracle 11g, SQL, PL/SQL",
+    "show": "yes"
   },
   {
     "company": "Ingenix - United Health Group",
@@ -143,7 +150,8 @@
       "Led ETL development efforts to integrate PacifiCare NICE datamart into ARO (Audit & Recovery Operations)",
       "Successful Deployment in production; helped in recovering dollar amounts and savings from outsource contract in maintenance."
      ],
-    "skills": "IBM DataStage, Oracle 10g, SQL, PL/SQL, Unix shell scripting, Autosys, Business Analysis"
+    "skills": "IBM DataStage, Oracle 10g, SQL, PL/SQL, Unix shell scripting, Autosys, Business Analysis",
+    "show": "yes"
   },
   {
     "company": "Oracle Corporation",
@@ -161,7 +169,8 @@
       "Architected a customized Supply Chain Management Data Warehouse based on Demand Management (DM), Production & Distribution Planning (PDP), and internal legacy systems provided data. Created a Reporting Solution using MicroStrategy.",
       "Provided training to business users on the structure of the customized Data Warehouse, MicroStrategy Desktop and Administration and Ascential DataStage Designer, Director, Manager, and Administrator."
      ],
-    "skills": "Oracle BAM 10g, Oracle 10g, SQL, PeopleSoft CRM, DataStage, MicroStrategy"
+    "skills": "Oracle BAM 10g, Oracle 10g, SQL, PeopleSoft CRM, DataStage, MicroStrategy",
+    "show": "yes"
   },
   {
     "company": "Alta Resources",
@@ -175,7 +184,8 @@
       "Developed custom applications for ad-hoc reporting needs using VB, T-SQL, and DTS packages.",
       "Created processes to send and receive customer data using PGP cryptographic software, transform and load into the databases."
      ],
-    "skills": "SQL Server, T-SQL, DTS, VB, PGP"
+    "skills": "SQL Server, T-SQL, DTS, VB, PGP",
+    "show": "yes"
   },
   {
     "company": "Amway Corporation",
@@ -190,7 +200,8 @@
       "Designed and developed PeopleSoft Business Intelligence Information site to show JD Edwards source and DW target metadata.",
       "Developed a web application for JD Edwards Change Request Workflow Management."
      ],
-    "skills": "SQL Server, Oracle, SQL, T-SQL, ASP (Active Server Pages), Informatica, MicroStrategy"
+    "skills": "SQL Server, Oracle, SQL, T-SQL, ASP (Active Server Pages), Informatica, MicroStrategy",
+    "show": "yes"
   },
   {
     "company": "Jemco Logics",
@@ -203,7 +214,8 @@
     "description": [ 
       "Built a web application for Marketing department for tracking leads."
     ],
-    "skills": "ASP (Active Server Pages), Microsoft Access"
+    "skills": "ASP (Active Server Pages), Microsoft Access",
+    "show": "yes"
   },
   {
     "company": "National Association of Purchasing Management - Greater Grand Rapids",
@@ -214,7 +226,8 @@
     "image": "napm.gif",
     "url": "www.ismworld.com",
     "description": [ "Built a website for National Association of Purchasing Management - Greater Grand Rapids chapter." ],
-    "skills": "HTML, CSS, JavaScript"
+    "skills": "HTML, CSS, JavaScript",
+    "show": "yes"
   },
   {
     "company": "Grand Valley State University",
@@ -228,7 +241,8 @@
       "Provided technical support to troubleshoot issues in the student community.",
       "Monitoring health of Data Center applications and devices."
      ],
-    "skills": "Windows and Linux network troubleshooting"
+    "skills": "Windows and Linux network troubleshooting",
+    "show": "yes"
   },
   {
     "company": "Herman Miller",
@@ -241,7 +255,8 @@
     "description": [ 
       "Supported Windows 2000 rollout in all office locations in West Michigan." 
       ],
-    "skills": "Windows 95/98, Windows 2000, Network and PC troubleshooting"
+    "skills": "Windows 95/98, Windows 2000, Network and PC troubleshooting",
+    "show": "yes"
   },
   {
     "company": "Standard Chartered Bank",
@@ -255,7 +270,8 @@
       "Played an active role during Y2K project and ATM centralization project.",
       "Provided end-to-end support for ATMs - from data centers to ATM machines as well as administration of ATM software on NCR Unix platform." 
       ],
-    "skills": "NCR Unix, AS/400, RPG"
+    "skills": "NCR Unix, AS/400, RPG",
+    "show": "yes"
   },
   {
     "company": "Standard Chartered Bank",
@@ -269,7 +285,8 @@
         "Assisted finding a problem account in the database by using divide and conquer strategy.",
         "Tested and demonstrated a new financial solution to consumer banking business executives." 
       ],
-    "skills": "SQL, SCO Unix"
+    "skills": "SQL, SCO Unix",
+    "show": "no"
   }
 
 ]
