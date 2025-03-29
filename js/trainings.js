@@ -13,22 +13,24 @@ function displayTrainings(data) {
     const trainingList = document.getElementById('trainings-list');
     
     data.forEach(training => {
-        const trainingDiv = document.createElement('div');
-        trainingDiv.classList.add('training-item');
-        trainingDiv.innerHTML = `
-                            <table>
-                                <tr>
-                                    <td class="col-img"><a href="http://${training.url}"><img src="images/${training.image}" alt="${training.school}"></a></td>
-                                    <td class="col-text">
-                                        <h3>${training.school}</h3>
-                                        <p>Courses:<b> ${training.courses} </b></p>
-                                        <p>Duration: ${training.duration}</p>
-                                        <p>Location: ${training.location}</p>
-                                    </td>
-                                </tr>
-                            </table>
-                        `;
-        trainingList.appendChild(trainingDiv);
+        if (training.show && training.show.toLowerCase() === "yes") {
+            const trainingDiv = document.createElement('div');
+            trainingDiv.classList.add('training-item');
+            trainingDiv.innerHTML = `
+                                <table>
+                                    <tr>
+                                        <td class="col-img"><a href="http://${training.url}"><img src="images/${training.image}" alt="${training.school}"></a></td>
+                                        <td class="col-text">
+                                            <h3>${training.school}</h3>
+                                            <p>Courses:<b> ${training.courses} </b></p>
+                                            <p>Duration: ${training.duration}</p>
+                                            <p>Location: ${training.location}</p>
+                                        </td>
+                                    </tr>
+                                </table>
+                            `;
+            trainingList.appendChild(trainingDiv);            
+        }
     });
 }
 
