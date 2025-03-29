@@ -5,7 +5,8 @@
     "duration": "May 2019",
     "location": "Virtual",
     "image": "teradata.png",
-    "url": "www.teradata.com"
+    "url": "www.teradata.com",
+    "show": "yes"
   },
   {
     "school": "Wells Fargo provided training",
@@ -13,7 +14,8 @@
     "duration": "September 2017",
     "location": "Phoenix, AZ",
     "image": "abinitio.jpg",
-    "url": "www.abinitio.com"
+    "url": "www.abinitio.com",
+    "show": "yes"
   },
   {
     "school": "HP provided training",
@@ -21,7 +23,8 @@
     "duration": "February 2014",
     "location": "Virtual",
     "image": "togaf.png",
-    "url": "www.opengroup.org"
+    "url": "www.opengroup.org",
+    "show": "yes"
   },
   {
     "school": "HP provided training",
@@ -29,7 +32,8 @@
     "duration": "January 2012",
     "location": "Chicago, IL",
     "image": "hp.png",
-    "url": "www.hp.com"
+    "url": "www.hp.com",
+    "show": "yes"
   },
   {
     "school": "HP provided training",
@@ -37,7 +41,8 @@
     "duration": "July 2008",
     "location": "Palo Alto, CA",
     "image": "hp.png",
-    "url": "www.hp.com"
+    "url": "www.hp.com",
+    "show": "yes"
   },
   {
     "school": "HP provided training",
@@ -45,7 +50,8 @@
     "duration": "June 2008",
     "location": "Atlanta, GA",
     "image": "hp.png",
-    "url": "www.hp.com"
+    "url": "www.hp.com",
+    "show": "yes"
   },
   {
     "school": "PeopleSoft provided training",
@@ -53,7 +59,8 @@
     "duration": "November 2004",
     "location": "Pleasanton, CA",
     "image": "peoplesoft.png",
-    "url": "www.peoplesoft.com"
+    "url": "www.peoplesoft.com",
+    "show": "yes"
   },
   {
     "school": "Grand Rapids Community College",
@@ -61,7 +68,8 @@
     "duration": "September 2002 - December 2002",
     "location": "Grand Rapids, MI",
     "image": "grcc.png",
-    "url": "www.grcc.edu"
+    "url": "www.grcc.edu",
+    "show": "yes"
   },
   {
     "school": "Alexandria Technical College",
@@ -69,7 +77,8 @@
     "duration": "September 2001 - April 2002",
     "location": "Virtual",
     "image": "atc.png",
-    "url": "www.alextech.edu"
+    "url": "www.alextech.edu",
+    "show": "yes"
   },
   {
     "school": "Sysnet Education",
@@ -77,7 +86,8 @@
     "duration": "October 1999 - November 1999",
     "location": "Karachi, Pakistan",
     "image": "sysnet.jpg",
-    "url": ""
+    "url": "",
+    "show": "no"
   },
   {
     "school": "Petroman Training Institute",
@@ -85,7 +95,8 @@
     "duration": "January 1996 - July 1996",
     "location": "Karachi, Pakistan",
     "image": "petroman.jpg",
-    "url": ""
+    "url": "",
+    "show": "no"
   }
 
 ]
