@@ -215,7 +215,7 @@
       "Built a web application for Marketing department for tracking leads."
     ],
     "skills": "ASP (Active Server Pages), Microsoft Access",
-    "show": "yes"
+    "show": "no"
   },
   {
     "company": "National Association of Purchasing Management - Greater Grand Rapids",
@@ -227,7 +227,7 @@
     "url": "www.ismworld.com",
     "description": [ "Built a website for National Association of Purchasing Management - Greater Grand Rapids chapter." ],
     "skills": "HTML, CSS, JavaScript",
-    "show": "yes"
+    "show": "no"
   },
   {
     "company": "Grand Valley State University",
@@ -242,7 +242,7 @@
       "Monitoring health of Data Center applications and devices."
      ],
     "skills": "Windows and Linux network troubleshooting",
-    "show": "yes"
+    "show": "no"
   },
   {
     "company": "Herman Miller",
@@ -256,7 +256,7 @@
       "Supported Windows 2000 rollout in all office locations in West Michigan." 
       ],
     "skills": "Windows 95/98, Windows 2000, Network and PC troubleshooting",
-    "show": "yes"
+    "show": "no"
   },
   {
     "company": "Standard Chartered Bank",
