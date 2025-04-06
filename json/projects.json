@@ -1,5 +1,41 @@
 [
   {
+    "project": "Enterprise Search Application",
+    "client": "Utility Company (Confidential)",
+    "role": "Technical Account Manager (TAM) & Solution Architect",
+    "year": "2024",
+    "image": "aws.png",
+    "url": "aws.amazon.com",
+    "diagram": "EnterpriseSearch.drawio.html",
+    "diagram_image": "EnterpriseSearch.jpg",
+    "skills": "Python, Terraform, DynamoDB,Lex, Lambda, Bedrock, Kendra",
+    "description": "Delivered a conversational AI solution with a web-based chatbot hosted on Amazon ECS, enabling natural dialog through a user-friendly interface.\nUsed Amazon Lex for intent recognition and AWS Lambda for intent fulfillment, executing business logic based on user interactions.\nIntegrated a LangChain-based agent that accessed customer-specific data from DynamoDB, searched indexed documents via Amazon Kendra, and leveraged Amazon Bedrock FM for general knowledge responses.\nEnabled Retrieval-Augmented Generation (RAG) using Kendra to provide contextually accurate answers with source attribution, improving transparency and user trust."
+  },
+  {
+    "project": "Near Real-Time Analytics Solution",
+    "client": "Financial firm (Confidential)",
+    "role": "Technical Account Manager (TAM) & Solution Architect",
+    "year": "2023",
+    "image": "aws.png",
+    "url": "aws.amazon.com",
+    "diagram": "Bank_NearRealTimeAnalytics.drawio.html",
+    "diagram_image": "Bank_NearRealTimeAnalytics.jpg",
+    "skills": "Python, Terraform, Lambda, Kinesis Firehose, Glue, Redshift, QuickSight, PySpark",
+    "description": "Designed a near real-time analytics architecture for a financial services customer at AWS using Kinesis Firehose, Lambda, Glue, Redshift, and QuickSight.\n Enabled ingestion of clickstream and transactional data, with PySpark-based ETL pipelines for data cleansing, timestamp standardization, and enrichment using reference data in Redshift. \n Collaborated with the customer to write advanced SQL queries for analytics and supported QuickSight dashboard development for visualization. \n Guided the customer in deploying the solution using Terraform, resulting in a successful production rollout and improved analytics capabilities."
+  },
+  {
+    "project": "Gemba Walk Tracker Tool",
+    "client": "AWS - TAM organization",
+    "role": "Software Development Engineer & Technical Lead",
+    "year": "2023",
+    "image": "aws.png",
+    "url": "aws.amazon.com",
+    "diagram": "GembaWalkTool.drawio.html",
+    "diagram_image": "GembaWalkTool.jpg",
+    "skills": "Python, DynamoDB, Brazil, Turtle, CRUX, Pipelines, Apollo, Redfort, Fleet Management, VIP",
+    "description": "Led a team of TAM builders to design and develop an internal Gemba Walk Tracker (Python Flask web framework) for tracking opportunities for productivity gains.\nDelivered a fully functional solution in a sophisticated software environment, demonstrating strong problem-solving skills and adaptability.\nDeveloped expertise in Amazon internal builder tools, while gaining a deep understanding of infrastructure and security components.\nUtilized internal forums and team collaboration to overcome technical obstacles, showcasing excellent communication and teamwork."
+  },
+  {
     "project": "Tech Refresh to migrate 500 TB of hadoop data",
     "client": "Wells Fargo",
     "role": "Production Support Lead",
