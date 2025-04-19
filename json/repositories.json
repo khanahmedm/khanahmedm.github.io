@@ -1,9 +1,9 @@
 [
     {
-        "repoName": "Python for Everybody",
-        "skills": "Python, Data Structures, SQL",
-        "image": "Python.png",
-        "url": "https://github.com/khanahmedm/Python-coding"
+        "repoName": "Gen-AI ChatApp",
+        "skills": "Python, Bedrock, LLM, LangChain",
+        "image": "gen-ai-1.png",
+        "url": "https://github.com/khanahmedm/GenAI-Bedrock-ChatApp"
     },
     {
         "repoName": "Machine Learning in Python",
@@ -22,6 +22,12 @@
         "skills": "Python, Spark SQL, PySpark",
         "image": "pyspark.png",
         "url": "https://github.com/khanahmedm/PySpark-Project"
+    },
+    {
+        "repoName": "Python for Everybody",
+        "skills": "Python, Data Structures, SQL",
+        "image": "Python.png",
+        "url": "https://github.com/khanahmedm/Python-coding"
     },
     {
         "repoName": "Redshift",
@@ -46,11 +52,5 @@
         "skills": "SQL - DDL, DML",
         "image": "postgresql.jpg",
         "url": "https://github.com/khanahmedm/PostgreSQL"
-    },
-    {
-        "repoName": "Gen-AI ChatApp",
-        "skills": "Python, Bedrock, LLM, LangChain",
-        "image": "gen-ai-1.png",
-        "url": "https://github.com/khanahmedm/GenAI-Bedrock-ChatApp"
     }
 ]
