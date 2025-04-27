@@ -58,5 +58,11 @@
         "skills": "SQL - DDL, DML",
         "image": "postgresql.jpg",
         "url": "https://github.com/khanahmedm/PostgreSQL"
+    },
+    {
+        "repoName": "Data Strctures and Algorithms in Python",
+        "skills": "Python, Data Structures, Algorithms",
+        "image": "datastructures_python.png",
+        "url": "https://github.com/khanahmedm/DataStructures"
     }
 ]
