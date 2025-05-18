@@ -70,5 +70,11 @@
         "skills": "Python, Data Structures, Algorithms",
         "image": "datastructures_python.PNG",
         "url": "https://github.com/khanahmedm/DataStructures"
+    },
+    {
+        "repoName": "AWS Terraform Examples",
+        "skills": "Terraform, HCL, AWS",
+        "image": "terraform_aws.PNG",
+        "url": "https://github.com/khanahmedm/aws-terraform-samples"
     }
 ]
