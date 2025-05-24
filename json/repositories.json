@@ -18,6 +18,12 @@
         "url": "https://github.com/khanahmedm/aws-data-pipeline-terraform"
     },
     {
+        "repoName": "AWS Near Real-Time Data Pipeline Deployment using Terraform",
+        "skills": "Terraform, HCL, AWS",
+        "image": "Kinesis-Firehose.PNG",
+        "url": "https://github.com/khanahmedm/aws-firehose-data-pipeline-terraform"
+    },
+    {
         "repoName": "Machine Learning in Python",
         "skills": "Python, Jupyter Notebooks, NumPy, Pandas",
         "image": "Jupyter_Python.png",
