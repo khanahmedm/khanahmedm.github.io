@@ -19,7 +19,7 @@
     },
     {
         "repoName": "AWS Near Real-Time Data Pipeline Deployment using Terraform",
-        "skills": "Terraform, HCL, AWS",
+        "skills": "Terraform, HCL, AWS Kinesis Firehose, Lambda, AWS S3, ECS, Glue, Python",
         "image": "Kinesis-Firehose.PNG",
         "url": "https://github.com/khanahmedm/aws-firehose-data-pipeline-terraform"
     },
