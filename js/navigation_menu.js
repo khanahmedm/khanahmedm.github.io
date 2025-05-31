@@ -25,3 +25,36 @@ function displayNavMenu(data) {
 
 // Fetch JSON data when the page loads
 document.addEventListener('DOMContentLoaded', fetchJSONData);
+
+document.addEventListener("DOMContentLoaded", () => {
+  const sections = document.querySelectorAll("section");
+  const navLinks = document.querySelectorAll(".nav-link");
+
+  function onScroll() {
+    let scrollPos = window.scrollY + 150; // adjust based on header height
+
+    sections.forEach(section => {
+      const top = section.offsetTop;
+      const height = section.offsetHeight;
+
+      if (scrollPos >= top && scrollPos < top + height) {
+        navLinks.forEach(link => {
+          link.classList.remove("active");
+          if (link.getAttribute("href") === `#${section.id}`) {
+            link.classList.add("active");
+          }
+        });
+      }
+    });
+  }
+
+  window.addEventListener("scroll", onScroll);
+
+  // Optional: also handle click highlight
+  navLinks.forEach(link => {
+    link.addEventListener("click", function () {
+      navLinks.forEach(l => l.classList.remove("active"));
+      this.classList.add("active");
+    });
+  });
+});
