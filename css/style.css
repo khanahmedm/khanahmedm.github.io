@@ -168,7 +168,10 @@ img {
 
 /* Shadow effect */
 .nav-link.active {
-    text-shadow: 10px 10px 15px rgba(46, 47, 87, 0.89);
+    /* text-shadow: 10px 10px 15px rgba(46, 47, 87, 0.89); */
+    background-color: #333;
+    color: white;
+    text-decoration: underline;
 }
 
 .menuItem {
