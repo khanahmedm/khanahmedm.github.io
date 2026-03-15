@@ -1,5 +1,23 @@
 [
   {
+    "company": "Berkeley Lab",
+    "organization": "DOE Systems Biology Knowledgebase (KBase)",
+    "role": "Data Engineer - Fixed Term Contract",
+    "duration": "April 2025 - present",
+    "location": "St. Louis, MO",
+    "image": "Berkeley_Lab_Logo_Large.jpg",
+    "url": "www.lbl.gov",
+    "description": [
+        "Architected config-driven lakehouse ingest library supporting medallion architecture, enabling self-service Delta table loading on MinIO and establishing AI-ready, governed, and scalable data assets for biological and genomic research.",
+        "Ingest library enabled declarative multi-table schemas and ingestion definitions, reducing onboarding and operational complexity.",
+        "Delivered high-throughput ingestion loading 2–3 billion records per hour, replacing slow legacy pipelines.",
+        "Achieved rapid user adoption, enabling scientists and analysts to load datasets independently without production issues.",
+        "GitHub repository: https://github.com/kbase/data-lakehouse-ingest"
+        ],
+    "skills": "Python, Spark, PySpark, SQL, Delta Lake, JupyterHub, Minio, Docker, Git, GitHub, GitHub Actions",
+    "show": "yes"
+  },
+  {
     "company": "Amazon Web Services",
     "organization": "Enterprise Support",
     "role": "Senior Technical Account Manager",
