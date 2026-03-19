@@ -12,6 +12,7 @@
         "Ingest library enabled declarative multi-table schemas and ingestion definitions, reducing onboarding and operational complexity.",
         "Delivered high-throughput ingestion loading 2–3 billion records per hour, replacing slow legacy pipelines.",
         "Achieved rapid user adoption, enabling scientists and analysts to load datasets independently without production issues.",
+        "Built a config-driven data validation framework using Great Expectations, enabling automated validation of incoming datasets and Delta tables, including schema enforcement, data quality checks, and referential integrity validation, strengthening data governance and trust.",
         "GitHub repository: https://github.com/kbase/data-lakehouse-ingest"
         ],
     "skills": "Python, Spark, PySpark, SQL, Delta Lake, JupyterHub, Minio, Docker, Git, GitHub, GitHub Actions",
