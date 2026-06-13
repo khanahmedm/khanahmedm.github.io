@@ -68,14 +68,14 @@ section {
     padding: 0 20px;
     scroll-behavior: smooth;
 }
-.intro, .work-history, .projects, .certifications, .schools, .trainings, .skills, .repositories, .contact {
+.intro, .work-history, .projects, .certifications, .schools, .trainings, .skills, .repositories, .articles, .contact {
     margin-bottom: 40px;
 }
-.intro h2, .work-history h2, .projects h2, .certifications h2, .schools h2, .trainings h2, .skills h2, .repositories h2, .contact h2 {
+.intro h2, .work-history h2, .projects h2, .certifications h2, .schools h2, .trainings h2, .skills h2, .repositories h2, .articles h2, .contact h2 {
     border-bottom: 2px solid #333;
     padding-bottom: 10px;
 }
-.intro, .work-item, .project-item, .certification-item, .school-item, .training-item, .skill-item, .repository-item, .contact-item {
+.intro, .work-item, .project-item, .certification-item, .school-item, .training-item, .skill-item, .repository-item,  .article-item, .contact-item {
     margin-bottom: 20px;
 }
 .intro h3, .work-item h3, .project-item h3, .certification-item h3, .school-item h3, .training-item h3, .skill-item h3, .repository-item h3, .contact-item h3 {
@@ -324,4 +324,14 @@ footer {
     color: blue;
     text-decoration: underline;
     cursor: pointer;
+}
+
+.article-item a {
+    color: #333;
+    text-decoration: none;
+}
+
+.article-item a:hover {
+    color: #0056b3;
+    text-decoration: underline;
 }
