@@ -28,6 +28,10 @@
     "href": "#repositories"
   },
   {
+    "name": "Articles",
+    "href": "#articles"
+  },
+  {
     "name": "Contact",
     "href": "#contact"
   }
