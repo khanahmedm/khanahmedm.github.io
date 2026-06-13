@@ -10,12 +10,14 @@
     "description": [
         "Architected config-driven lakehouse ingest library supporting medallion architecture, enabling self-service Delta table loading on MinIO and establishing AI-ready, governed, and scalable data assets for biological and genomic research.",
         "Ingest library enabled declarative multi-table schemas and ingestion definitions, reducing onboarding and operational complexity.",
-        "Delivered high-throughput ingestion loading 2–3 billion records per hour, replacing slow legacy pipelines.",
+        "Delivered high-throughput ingestion loading 6-7 billion records per hour, replacing slow legacy pipelines.",
         "Achieved rapid user adoption, enabling scientists and analysts to load datasets independently without production issues.",
         "Built a config-driven data validation framework using Great Expectations, enabling automated validation of incoming datasets and Delta tables, including schema enforcement, data quality checks, and referential integrity validation, strengthening data governance and trust.",
+        "Architected a telemetry and observability platform that collected ingest, Spark, and Trino operational logs, normalized events into a unified analytics model, and published telemetry to VictoriaLogs for centralized monitoring, troubleshooting, and workload analytics.",
+        "Built an AI agent skill using Claude Code, enabling users to upload data, trigger ingestion, and run validations through natural language.",
         "GitHub repository: https://github.com/kbase/data-lakehouse-ingest"
         ],
-    "skills": "Python, Spark, PySpark, SQL, Delta Lake, JupyterHub, Minio, Docker, Git, GitHub, GitHub Actions",
+    "skills": "Python, Spark, PySpark, SQL, Delta Lake, Iceberg, MinIO, Trino, JupyterHub, Great Expectations, Docker, Git, Airflow, Claude Code",
     "show": "yes"
   },
   {
