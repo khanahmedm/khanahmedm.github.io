@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 function displayProjects(projects) {
-    var projectsContainer = document.getElementById('projects-container');
+    var projectsContainer = document.getElementById('projects-list');
 
     projects.forEach(function(project) {
         var tile = document.createElement('div');
