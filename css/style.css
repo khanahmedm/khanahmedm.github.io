@@ -337,6 +337,20 @@ footer {
     text-decoration: underline;
 }
 
+.article-item h3 {
+    position: relative;
+    padding-left: 28px;
+}
+
+.article-item h3::before {
+    content: "◆";
+    position: absolute;
+    left: 0;
+    color: #0056b3;
+    font-size: 14px;
+    top: 5px;
+}
+
 #author-info {
     flex-shrink: 0;
     white-space: nowrap;
