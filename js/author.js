@@ -13,12 +13,12 @@ function displayAuthor(data) {
     const authorInfo = document.getElementById('author-info');
     
     data.forEach(user => {
-        const userDiv = document.createElement('nav');
+        const userDiv = document.createElement('div');
         userDiv.classList.add('user');
-        userDiv.innerHTML = `<h1><a href="${user.href}">${user.name}</h1>
-                                <a style="font-size: 12px;" href="mailto:${user.email}">email</a>
-                                <a style="font-size: 12px;" href="http://${user.linkedin}">linkedin</a>
-                                <a style="font-size: 12px;" href="http://${user.github}">github</a>`;
+        userDiv.innerHTML = `<h1><a href="${user.href}">${user.name}</a></h1>
+                                <a class="author-link" href="mailto:${user.email}">email</a>
+                                <a class="author-link" href="http://${user.linkedin}">linkedin</a>
+                                <a class="author-link" href="http://${user.github}">github</a>`;
         authorInfo.appendChild(userDiv);
     });
 }
