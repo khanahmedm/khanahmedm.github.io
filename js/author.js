@@ -18,7 +18,8 @@ function displayAuthor(data) {
         userDiv.innerHTML = `<h1><a href="${user.href}">${user.name}</a></h1>
                                 <a class="author-link" href="mailto:${user.email}">email</a>
                                 <a class="author-link" href="http://${user.linkedin}">linkedin</a>
-                                <a class="author-link" href="http://${user.github}">github</a>`;
+                                <a class="author-link" href="http://${user.github}">github</a>
+                                <a class="author-link" href="http://${user.orcid}">ORCID</a>`;
         authorInfo.appendChild(userDiv);
     });
 }
